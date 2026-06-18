@@ -2,7 +2,7 @@
 
 **LeetCode 3945 | Easy**
 
-📅 Date: 18 June 2026
+📅 Date: 16 June 2026
 
 ---
 

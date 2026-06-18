@@ -1,41 +1,62 @@
 # LeetCode Journey 🚀
 
-Daily LeetCode problem-solving journey to strengthen Data Structures & Algorithms.
+Daily LeetCode problem-solving journey to strengthen my Data Structures & Algorithms skills and maintain coding consistency.
 
-## Goals
+## 🎯 Goals
 
 * Solve 1-2 LeetCode problems daily
 * Improve problem-solving skills
-* Build consistency
+* Strengthen DSA concepts
 * Prepare for internships and placements
+* Maintain a consistent coding habit
 
 ---
 
-## Progress
+## 📈 Progress
 
 | Day | Date        | Problem No. | Problem Name           | Difficulty |
 | --- | ----------- | ----------- | ---------------------- | ---------- |
-| 1   | 17 Jun 2026 | 1929        | Concatenation of Array | Easy       |
-| 2   | 16 Jun 2026 | 3945        | Digit Frequency Score  | Easy       |
+| 1   | 16 Jun 2026 | 3945        | Digit Frequency Score  | Easy       |
+| 2   | 17 Jun 2026 | 1929        | Concatenation of Array | Easy       |
 | 3   | 18 Jun 2026 | 3110        | Score of a String      | Easy       |
 
 ---
 
-## Statistics
+## 📊 Statistics
 
-| Difficulty | Count |
-| ---------- | ----- |
-| Easy       | 3     |
-| Medium     | 0     |
-| Hard       | 0     |
+| Difficulty | Solved |
+| ---------- | ------ |
+| Easy       | 3      |
+| Medium     | 0      |
+| Hard       | 0      |
 
 ### Total Problems Solved: 3 ✅
 
-### Current Streak: 2 Days 🔥
+### Current Streak: 3 Days 🔥
 
 ---
 
-## Repository Structure
+## 🏷️ Topics Covered
+
+* Array
+* String
+* Mathematics
+* Simulation
+* STL
+
+---
+
+## 📚 Solved Problems
+
+| #    | Problem                | Solution |
+| ---- | ---------------------- | -------- |
+| 3945 | Digit Frequency Score  | Day-001  |
+| 1929 | Concatenation of Array | Day-002  |
+| 3110 | Score of a String      | Day-003  |
+
+---
+
+## 📂 Repository Structure
 
 ```text
 LeetCode-Journey/
@@ -57,32 +78,33 @@ LeetCode-Journey/
 
 ---
 
-## Topics Covered
+## 🗓️ Timeline
 
-* Array
-* String
-* Simulation
-* Mathematics
-* STL
+### Day 1 — 16 June 2026
 
----
+* LeetCode 3945: Digit Frequency Score
 
-## Solved Problems
+### Day 2 — 17 June 2026
 
-| #    | Problem                |
-| ---- | ---------------------- |
-| 1929 | Concatenation of Array |
-| 3945 | Digit Frequency Score  |
-| 3110 | Score of a String      |
+* LeetCode 1929: Concatenation of Array
+
+### Day 3 — 18 June 2026
+
+* LeetCode 3110: Score of a String
 
 ---
 
-### Timeline
+## 🚀 Milestones
 
-* Day 1 → Concatenation of Array (#1929)
-* Day 2 → Digit Frequency Score (#3945)
-* Day 3 → Score of a String (#3110)
+* ✅ First LeetCode problem solved
+* ✅ 3-day solving streak
+* ⏳ 10 problems milestone
+* ⏳ 25 problems milestone
+* ⏳ 50 problems milestone
+* ⏳ 100 problems milestone
 
 ---
 
-*"Small daily improvements lead to remarkable long-term results."*
+### Consistency > Intensity
+
+*"Small daily improvements are the key to staggering long-term results."*

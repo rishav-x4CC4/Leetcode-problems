@@ -15,8 +15,9 @@ Daily LeetCode problem-solving journey to strengthen Data Structures & Algorithm
 
 | Day | Date        | Problem No. | Problem Name           | Difficulty |
 | --- | ----------- | ----------- | ---------------------- | ---------- |
-| 1   | 18 Jun 2026 | 3945        | Digit Frequency Score  | Easy       |
-| 2   | 17 Jun 2026 | 1929        | Concatenation of Array | Easy       |
+| 1   | 17 Jun 2026 | 1929        | Concatenation of Array | Easy       |
+| 2   | 16 Jun 2026 | 3945        | Digit Frequency Score  | Easy       |
+| 3   | 18 Jun 2026 | 3110        | Score of a String      | Easy       |
 
 ---
 
@@ -24,11 +25,13 @@ Daily LeetCode problem-solving journey to strengthen Data Structures & Algorithm
 
 | Difficulty | Count |
 | ---------- | ----- |
-| Easy       | 2     |
+| Easy       | 3     |
 | Medium     | 0     |
 | Hard       | 0     |
 
-### Total Problems Solved: 2 ✅
+### Total Problems Solved: 3 ✅
+
+### Current Streak: 2 Days 🔥
 
 ---
 
@@ -45,6 +48,10 @@ LeetCode-Journey/
 │   ├── README.md
 │   └── solution.cpp
 │
+├── Day-003/
+│   ├── README.md
+│   └── solution.cpp
+│
 └── README.md
 ```
 
@@ -53,17 +60,29 @@ LeetCode-Journey/
 ## Topics Covered
 
 * Array
+* String
 * Simulation
 * Mathematics
 * STL
 
 ---
 
-### Timeline
+## Solved Problems
 
-* Day 1 → Digit Frequency Score (#3945)
-* Day 2 → Concatenation of Array (#1929)
+| #    | Problem                |
+| ---- | ---------------------- |
+| 1929 | Concatenation of Array |
+| 3945 | Digit Frequency Score  |
+| 3110 | Score of a String      |
 
 ---
 
-*"Consistency beats intensity."*
+### Timeline
+
+* Day 1 → Concatenation of Array (#1929)
+* Day 2 → Digit Frequency Score (#3945)
+* Day 3 → Score of a String (#3110)
+
+---
+
+*"Small daily improvements lead to remarkable long-term results."*

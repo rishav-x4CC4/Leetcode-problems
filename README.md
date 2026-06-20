@@ -20,6 +20,7 @@ Daily LeetCode problem-solving journey to strengthen my Data Structures & Algori
 | 2   | 17 Jun 2026 | 1929        | Concatenation of Array  | Easy       |
 | 3   | 18 Jun 2026 | 3110        | Score of a String       | Easy       |
 | 4   | 19 Jun 2026 | 1108        | Defanging an IP Address | Easy       |
+| 5   | 20 Jun 2026 | 53          | Maximum Subarray        | Medium     |
 
 ---
 
@@ -28,12 +29,12 @@ Daily LeetCode problem-solving journey to strengthen my Data Structures & Algori
 | Difficulty | Solved |
 | ---------- | ------ |
 | Easy       | 4      |
-| Medium     | 0      |
+| Medium     | 1      |
 | Hard       | 0      |
 
-### Total Problems Solved: 4 ✅
+### Total Problems Solved: 5 ✅
 
-### Current Streak: 4 Days 🔥
+### Current Streak: 5 Days 🔥
 
 ---
 
@@ -44,24 +45,68 @@ Daily LeetCode problem-solving journey to strengthen my Data Structures & Algori
 * Mathematics
 * Simulation
 * STL
+* Dynamic Programming
+* Kadane's Algorithm
 
 ---
 
 ## 📚 Solved Problems
 
-| #    | Problem                 |
-| ---- | ----------------------- |
-| 3945 | Digit Frequency Score   |
-| 1929 | Concatenation of Array  |
-| 3110 | Score of a String       |
-| 1108 | Defanging an IP Address |
+| #    | Problem                 | Difficulty |
+| ---- | ----------------------- | ---------- |
+| 3945 | Digit Frequency Score   | Easy       |
+| 1929 | Concatenation of Array  | Easy       |
+| 3110 | Score of a String       | Easy       |
+| 1108 | Defanging an IP Address | Easy       |
+| 53   | Maximum Subarray        | Medium     |
+
+---
+
+## 📂 Repository Structure
+
+```text
+LeetCode-Journey/
+│
+├── Day-001/
+│   ├── README.md
+│   └── solution.cpp
+│
+├── Day-002/
+│   ├── README.md
+│   └── solution.cpp
+│
+├── Day-003/
+│   ├── README.md
+│   └── solution.cpp
+│
+├── Day-004/
+│   ├── README.md
+│   └── solution.cpp
+│
+├── Day-005/
+│   ├── README.md
+│   └── solution.cpp
+│
+└── README.md
+```
+
+---
+
+## 🗓️ Timeline
+
+* **Day 1 (16 Jun 2026)** → Digit Frequency Score (#3945)
+* **Day 2 (17 Jun 2026)** → Concatenation of Array (#1929)
+* **Day 3 (18 Jun 2026)** → Score of a String (#3110)
+* **Day 4 (19 Jun 2026)** → Defanging an IP Address (#1108)
+* **Day 5 (20 Jun 2026)** → Maximum Subarray (#53)
 
 ---
 
 ## 🚀 Milestones
 
 * ✅ First LeetCode problem solved
-* ✅ 3-day solving streak
+* ✅ 5-day solving streak
+* ✅ 5 problems solved
 * ⏳ 10 problems
 * ⏳ 25 problems
 * ⏳ 50 problems
@@ -69,4 +114,6 @@ Daily LeetCode problem-solving journey to strengthen my Data Structures & Algori
 
 ---
 
-*"Consistency compounds. One problem a day becomes hundreds over time."*
+### Consistency > Intensity
+
+*"Small daily improvements are the key to staggering long-term results."*

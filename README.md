@@ -21,6 +21,7 @@ Daily LeetCode problem-solving journey to strengthen my Data Structures & Algori
 | 3   | 18 Jun 2026 | 3110        | Score of a String       | Easy       |
 | 4   | 19 Jun 2026 | 1108        | Defanging an IP Address | Easy       |
 | 5   | 20 Jun 2026 | 53          | Maximum Subarray        | Medium     |
+| 6   | 21 Jun 2026 | 88          | Merge Sorted Array      | Easy       |
 
 ---
 
@@ -28,13 +29,13 @@ Daily LeetCode problem-solving journey to strengthen my Data Structures & Algori
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 4      |
+| Easy       | 5      |
 | Medium     | 1      |
 | Hard       | 0      |
 
-### Total Problems Solved: 5 ✅
+### Total Problems Solved: 6 ✅
 
-### Current Streak: 5 Days 🔥
+### Current Streak: 6 Days 🔥
 
 ---
 
@@ -47,6 +48,8 @@ Daily LeetCode problem-solving journey to strengthen my Data Structures & Algori
 * STL
 * Dynamic Programming
 * Kadane's Algorithm
+* Two Pointers
+* Sorting
 
 ---
 
@@ -59,6 +62,7 @@ Daily LeetCode problem-solving journey to strengthen my Data Structures & Algori
 | 3110 | Score of a String       | Easy       |
 | 1108 | Defanging an IP Address | Easy       |
 | 53   | Maximum Subarray        | Medium     |
+| 88   | Merge Sorted Array      | Easy       |
 
 ---
 
@@ -87,6 +91,10 @@ LeetCode-Journey/
 │   ├── README.md
 │   └── solution.cpp
 │
+├── Day-006/
+│   ├── README.md
+│   └── solution.cpp
+│
 └── README.md
 ```
 
@@ -99,13 +107,14 @@ LeetCode-Journey/
 * **Day 3 (18 Jun 2026)** → Score of a String (#3110)
 * **Day 4 (19 Jun 2026)** → Defanging an IP Address (#1108)
 * **Day 5 (20 Jun 2026)** → Maximum Subarray (#53)
+* **Day 6 (21 Jun 2026)** → Merge Sorted Array (#88)
 
 ---
 
 ## 🚀 Milestones
 
 * ✅ First LeetCode problem solved
-* ✅ 5-day solving streak
+* ✅ 6-day solving streak
 * ✅ 5 problems solved
 * ⏳ 10 problems
 * ⏳ 25 problems

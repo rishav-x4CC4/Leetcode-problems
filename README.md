@@ -14,15 +14,16 @@ Daily LeetCode problem-solving journey to strengthen my Data Structures & Algori
 
 ## 📈 Progress
 
-| Day | Date        | Problem No. | Problem Name                           | Difficulty |
-| --- | ----------- | ----------- | -------------------------------------- | ---------- |
-| 1   | 16 Jun 2026 | 3945        | Digit Frequency Score                  | Easy       |
-| 2   | 17 Jun 2026 | 1929        | Concatenation of Array                 | Easy       |
-| 3   | 18 Jun 2026 | 3110        | Score of a String                      | Easy       |
-| 4   | 19 Jun 2026 | 1108        | Defanging an IP Address                | Easy       |
-| 5   | 20 Jun 2026 | 53          | Maximum Subarray                       | Medium     |
-| 6   | 21 Jun 2026 | 88          | Merge Sorted Array                     | Easy       |
-| 7   | 22 Jun 2026 | 3541        | Find Most Frequent Vowel and Consonant | Easy       |
+| Day | Date        | Problem No. | Problem Name                                | Difficulty |
+| --- | ----------- | ----------- | ------------------------------------------- | ---------- |
+| 1   | 16 Jun 2026 | 3945        | Digit Frequency Score                       | Easy       |
+| 2   | 17 Jun 2026 | 1929        | Concatenation of Array                      | Easy       |
+| 3   | 18 Jun 2026 | 3110        | Score of a String                           | Easy       |
+| 4   | 19 Jun 2026 | 1108        | Defanging an IP Address                     | Easy       |
+| 5   | 20 Jun 2026 | 53          | Maximum Subarray                            | Medium     |
+| 6   | 21 Jun 2026 | 88          | Merge Sorted Array                          | Easy       |
+| 7   | 22 Jun 2026 | 3541        | Find Most Frequent Vowel and Consonant      | Easy       |
+| 8   | 23 Jun 2026 | 2894        | Divisible and Non-divisible Sums Difference | Easy       |
 
 ---
 
@@ -30,13 +31,13 @@ Daily LeetCode problem-solving journey to strengthen my Data Structures & Algori
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 6      |
+| Easy       | 7      |
 | Medium     | 1      |
 | Hard       | 0      |
 
-### Total Problems Solved: 7 ✅
+### Total Problems Solved: 8 ✅
 
-### Current Streak: 7 Days 🔥
+### Current Streak: 8 Days 🔥
 
 ---
 
@@ -58,15 +59,16 @@ Daily LeetCode problem-solving journey to strengthen my Data Structures & Algori
 
 ## 📚 Solved Problems
 
-| #    | Problem                                | Difficulty |
-| ---- | -------------------------------------- | ---------- |
-| 3945 | Digit Frequency Score                  | Easy       |
-| 1929 | Concatenation of Array                 | Easy       |
-| 3110 | Score of a String                      | Easy       |
-| 1108 | Defanging an IP Address                | Easy       |
-| 53   | Maximum Subarray                       | Medium     |
-| 88   | Merge Sorted Array                     | Easy       |
-| 3541 | Find Most Frequent Vowel and Consonant | Easy       |
+| #    | Problem                                     | Difficulty |
+| ---- | ------------------------------------------- | ---------- |
+| 3945 | Digit Frequency Score                       | Easy       |
+| 1929 | Concatenation of Array                      | Easy       |
+| 3110 | Score of a String                           | Easy       |
+| 1108 | Defanging an IP Address                     | Easy       |
+| 53   | Maximum Subarray                            | Medium     |
+| 88   | Merge Sorted Array                          | Easy       |
+| 3541 | Find Most Frequent Vowel and Consonant      | Easy       |
+| 2894 | Divisible and Non-divisible Sums Difference | Easy       |
 
 ---
 
@@ -103,6 +105,10 @@ LeetCode-Journey/
 │   ├── README.md
 │   └── solution.cpp
 │
+├── Day-008/
+│   ├── README.md
+│   └── solution.cpp
+│
 └── README.md
 ```
 
@@ -117,13 +123,14 @@ LeetCode-Journey/
 * **Day 5 (20 Jun 2026)** → Maximum Subarray (#53)
 * **Day 6 (21 Jun 2026)** → Merge Sorted Array (#88)
 * **Day 7 (22 Jun 2026)** → Find Most Frequent Vowel and Consonant (#3541)
+* **Day 8 (23 Jun 2026)** → Divisible and Non-divisible Sums Difference (#2894)
 
 ---
 
 ## 🚀 Milestones
 
 * ✅ First LeetCode problem solved
-* ✅ 7-day solving streak
+* ✅ 8-day solving streak
 * ✅ 5 problems solved
 * ⏳ 10 problems
 * ⏳ 25 problems

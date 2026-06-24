@@ -24,6 +24,7 @@ Daily LeetCode problem-solving journey to strengthen my Data Structures & Algori
 | 6   | 21 Jun 2026 | 88          | Merge Sorted Array                          | Easy       |
 | 7   | 22 Jun 2026 | 3541        | Find Most Frequent Vowel and Consonant      | Easy       |
 | 8   | 23 Jun 2026 | 2894        | Divisible and Non-divisible Sums Difference | Easy       |
+| 9   | 24 Jun 2026 | 13          | Roman to Integer                            | Easy       |
 
 ---
 
@@ -31,13 +32,13 @@ Daily LeetCode problem-solving journey to strengthen my Data Structures & Algori
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 7      |
+| Easy       | 8      |
 | Medium     | 1      |
 | Hard       | 0      |
 
-### Total Problems Solved: 8 ✅
+### Total Problems Solved: 9 ✅
 
-### Current Streak: 8 Days 🔥
+### Current Streak: 9 Days 🔥
 
 ---
 
@@ -54,6 +55,7 @@ Daily LeetCode problem-solving journey to strengthen my Data Structures & Algori
 * Sorting
 * Hashing
 * Counting
+* Hash Table
 
 ---
 
@@ -69,6 +71,7 @@ Daily LeetCode problem-solving journey to strengthen my Data Structures & Algori
 | 88   | Merge Sorted Array                          | Easy       |
 | 3541 | Find Most Frequent Vowel and Consonant      | Easy       |
 | 2894 | Divisible and Non-divisible Sums Difference | Easy       |
+| 13   | Roman to Integer                            | Easy       |
 
 ---
 
@@ -109,6 +112,10 @@ LeetCode-Journey/
 │   ├── README.md
 │   └── solution.cpp
 │
+├── Day-009/
+│   ├── README.md
+│   └── solution.cpp
+│
 └── README.md
 ```
 
@@ -124,13 +131,14 @@ LeetCode-Journey/
 * **Day 6 (21 Jun 2026)** → Merge Sorted Array (#88)
 * **Day 7 (22 Jun 2026)** → Find Most Frequent Vowel and Consonant (#3541)
 * **Day 8 (23 Jun 2026)** → Divisible and Non-divisible Sums Difference (#2894)
+* **Day 9 (24 Jun 2026)** → Roman to Integer (#13)
 
 ---
 
 ## 🚀 Milestones
 
 * ✅ First LeetCode problem solved
-* ✅ 8-day solving streak
+* ✅ 9-day solving streak
 * ✅ 5 problems solved
 * ⏳ 10 problems
 * ⏳ 25 problems

@@ -25,6 +25,7 @@ Daily LeetCode problem-solving journey to strengthen my Data Structures & Algori
 | 7   | 22 Jun 2026 | 3541        | Find Most Frequent Vowel and Consonant      | Easy       |
 | 8   | 23 Jun 2026 | 2894        | Divisible and Non-divisible Sums Difference | Easy       |
 | 9   | 24 Jun 2026 | 13          | Roman to Integer                            | Easy       |
+| 10  | 25 Jun 2026 | 9           | Palindrome Number                           | Easy       |
 
 ---
 
@@ -32,13 +33,13 @@ Daily LeetCode problem-solving journey to strengthen my Data Structures & Algori
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 8      |
+| Easy       | 9      |
 | Medium     | 1      |
 | Hard       | 0      |
 
-### Total Problems Solved: 9 ✅
+### Total Problems Solved: 10 ✅
 
-### Current Streak: 9 Days 🔥
+### Current Streak: 10 Days 🔥
 
 ---
 
@@ -72,6 +73,7 @@ Daily LeetCode problem-solving journey to strengthen my Data Structures & Algori
 | 3541 | Find Most Frequent Vowel and Consonant      | Easy       |
 | 2894 | Divisible and Non-divisible Sums Difference | Easy       |
 | 13   | Roman to Integer                            | Easy       |
+| 9    | Palindrome Number                           | Easy       |
 
 ---
 
@@ -116,6 +118,10 @@ LeetCode-Journey/
 │   ├── README.md
 │   └── solution.cpp
 │
+├── Day-010/
+│   ├── README.md
+│   └── solution.cpp
+│
 └── README.md
 ```
 
@@ -132,15 +138,16 @@ LeetCode-Journey/
 * **Day 7 (22 Jun 2026)** → Find Most Frequent Vowel and Consonant (#3541)
 * **Day 8 (23 Jun 2026)** → Divisible and Non-divisible Sums Difference (#2894)
 * **Day 9 (24 Jun 2026)** → Roman to Integer (#13)
+* **Day 10 (25 Jun 2026)** → Palindrome Number (#9)
 
 ---
 
 ## 🚀 Milestones
 
 * ✅ First LeetCode problem solved
-* ✅ 9-day solving streak
+* ✅ 10-day solving streak
 * ✅ 5 problems solved
-* ⏳ 10 problems
+* ✅ 10 problems solved
 * ⏳ 25 problems
 * ⏳ 50 problems
 * ⏳ 100 problems

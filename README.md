@@ -4,7 +4,7 @@ Daily LeetCode problem-solving journey to strengthen my Data Structures & Algori
 
 ## 🎯 Goals
 
-* Solve 1-2 LeetCode problems daily
+* Solve 1–2 LeetCode problems daily
 * Improve problem-solving skills
 * Strengthen DSA concepts
 * Prepare for internships and placements
@@ -26,20 +26,21 @@ Daily LeetCode problem-solving journey to strengthen my Data Structures & Algori
 | 8   | 23 Jun 2026 | 2894        | Divisible and Non-divisible Sums Difference | Easy       |
 | 9   | 24 Jun 2026 | 13          | Roman to Integer                            | Easy       |
 | 10  | 25 Jun 2026 | 9           | Palindrome Number                           | Easy       |
+| 11  | 26 Jun 2026 | 27          | Remove Element                              | Easy       |
 
 ---
 
 ## 📊 Statistics
 
 | Difficulty | Solved |
-| ---------- | ------ |
-| Easy       | 9      |
-| Medium     | 1      |
-| Hard       | 0      |
+| ---------- | -----: |
+| Easy       |     10 |
+| Medium     |      1 |
+| Hard       |      0 |
 
-### Total Problems Solved: 10 ✅
+### Total Problems Solved: **11** ✅
 
-### Current Streak: 10 Days 🔥
+### Current Streak: **11 Days** 🔥
 
 ---
 
@@ -54,9 +55,9 @@ Daily LeetCode problem-solving journey to strengthen my Data Structures & Algori
 * Kadane's Algorithm
 * Two Pointers
 * Sorting
+* Hash Table
 * Hashing
 * Counting
-* Hash Table
 
 ---
 
@@ -74,86 +75,23 @@ Daily LeetCode problem-solving journey to strengthen my Data Structures & Algori
 | 2894 | Divisible and Non-divisible Sums Difference | Easy       |
 | 13   | Roman to Integer                            | Easy       |
 | 9    | Palindrome Number                           | Easy       |
-
----
-
-## 📂 Repository Structure
-
-```text
-LeetCode-Journey/
-│
-├── Day-001/
-│   ├── README.md
-│   └── solution.cpp
-│
-├── Day-002/
-│   ├── README.md
-│   └── solution.cpp
-│
-├── Day-003/
-│   ├── README.md
-│   └── solution.cpp
-│
-├── Day-004/
-│   ├── README.md
-│   └── solution.cpp
-│
-├── Day-005/
-│   ├── README.md
-│   └── solution.cpp
-│
-├── Day-006/
-│   ├── README.md
-│   └── solution.cpp
-│
-├── Day-007/
-│   ├── README.md
-│   └── solution.cpp
-│
-├── Day-008/
-│   ├── README.md
-│   └── solution.cpp
-│
-├── Day-009/
-│   ├── README.md
-│   └── solution.cpp
-│
-├── Day-010/
-│   ├── README.md
-│   └── solution.cpp
-│
-└── README.md
-```
-
----
-
-## 🗓️ Timeline
-
-* **Day 1 (16 Jun 2026)** → Digit Frequency Score (#3945)
-* **Day 2 (17 Jun 2026)** → Concatenation of Array (#1929)
-* **Day 3 (18 Jun 2026)** → Score of a String (#3110)
-* **Day 4 (19 Jun 2026)** → Defanging an IP Address (#1108)
-* **Day 5 (20 Jun 2026)** → Maximum Subarray (#53)
-* **Day 6 (21 Jun 2026)** → Merge Sorted Array (#88)
-* **Day 7 (22 Jun 2026)** → Find Most Frequent Vowel and Consonant (#3541)
-* **Day 8 (23 Jun 2026)** → Divisible and Non-divisible Sums Difference (#2894)
-* **Day 9 (24 Jun 2026)** → Roman to Integer (#13)
-* **Day 10 (25 Jun 2026)** → Palindrome Number (#9)
+| 27   | Remove Element                              | Easy       |
 
 ---
 
 ## 🚀 Milestones
 
 * ✅ First LeetCode problem solved
-* ✅ 10-day solving streak
-* ✅ 5 problems solved
-* ✅ 10 problems solved
-* ⏳ 25 problems
-* ⏳ 50 problems
-* ⏳ 100 problems
+* ✅ 5 Problems Solved
+* ✅ 10 Problems Solved
+* ⏳ 25 Problems
+* ⏳ 50 Problems
+* ⏳ 100 Problems
+* ⏳ 250 Problems
+* ⏳ 500 Problems
 
 ---
 
-### Consistency > Intensity
+### 🌟 Motto
 
-*"Small daily improvements are the key to staggering long-term results."*
+> *"Consistency compounds. Every problem solved today makes tomorrow's challenges easier."*

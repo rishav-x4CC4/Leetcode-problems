@@ -6,14 +6,14 @@ This repository documents my daily journey of solving LeetCode problems to impro
 
 ---
 
-## 🎯 Goals
+# 🎯 Goals
 
 * 📅 Solve **1–2 LeetCode problems daily**
-* 💡 Strengthen problem-solving skills
+* 💡 Improve problem-solving skills
 * 📚 Master Data Structures & Algorithms
 * 💼 Prepare for internships and placements
 * 🔥 Maintain a daily coding streak
-* 🚀 Reach 100+ solved problems
+* 🚀 Reach **100+ solved problems**
 
 ---
 
@@ -33,6 +33,7 @@ This repository documents my daily journey of solving LeetCode problems to impro
 |  10 | 25 Jun 2026 |      9      | Palindrome Number                           |   🟢 Easy  |
 |  11 | 26 Jun 2026 |      27     | Remove Element                              |   🟢 Easy  |
 |  12 | 27 Jun 2026 |      21     | Merge Two Sorted Lists                      |   🟢 Easy  |
+|  13 | 28 Jun 2026 |      1      | Two Sum                                     |   🟢 Easy  |
 
 ---
 
@@ -40,17 +41,17 @@ This repository documents my daily journey of solving LeetCode problems to impro
 
 | Difficulty | Solved |
 | ---------- | :----: |
-| 🟢 Easy    | **11** |
+| 🟢 Easy    | **12** |
 | 🟡 Medium  |  **1** |
 | 🔴 Hard    |  **0** |
 
 ## ✅ Total Problems Solved
 
-**12**
+**13**
 
 ## 🔥 Current Streak
 
-**12 Days**
+**13 Days**
 
 ---
 
@@ -70,6 +71,7 @@ This repository documents my daily journey of solving LeetCode problems to impro
 * Sorting
 * Linked List
 * Recursion
+* Searching
 
 ---
 
@@ -89,6 +91,7 @@ This repository documents my daily journey of solving LeetCode problems to impro
 | 9    | Palindrome Number                           | 🟢 Easy    |
 | 27   | Remove Element                              | 🟢 Easy    |
 | 21   | Merge Two Sorted Lists                      | 🟢 Easy    |
+| 1    | Two Sum                                     | 🟢 Easy    |
 
 ---
 
@@ -145,6 +148,10 @@ LeetCode-Journey/
 │   ├── README.md
 │   └── solution.cpp
 │
+├── Day-013/
+│   ├── README.md
+│   └── solution.cpp
+│
 └── README.md
 ```
 
@@ -164,6 +171,7 @@ LeetCode-Journey/
 * **Day 10 (25 Jun 2026)** → Palindrome Number (#9)
 * **Day 11 (26 Jun 2026)** → Remove Element (#27)
 * **Day 12 (27 Jun 2026)** → Merge Two Sorted Lists (#21)
+* **Day 13 (28 Jun 2026)** → Two Sum (#1)
 
 ---
 
@@ -180,21 +188,21 @@ LeetCode-Journey/
 
 ---
 
-# 💻 Languages Used
+# 💻 Language Used
 
-* C++
+* **C++**
 
 ---
 
 # ⭐ Why this Repository?
 
-This repository serves as:
+This repository serves as my:
 
-* 📖 My DSA learning journal
+* 📖 DSA learning journal
 * 💼 Coding interview preparation
 * 📈 Progress tracker
-* 🌟 GitHub consistency streak
-* 🚀 Motivation to solve problems every day
+* 🔥 Daily consistency streak
+* 🚀 Motivation to improve every day
 
 ---
 
@@ -202,7 +210,7 @@ This repository serves as:
 
 * Complete LeetCode Easy problems
 * Solve 100+ Medium problems
-* Learn Graphs, Trees, DP and Greedy thoroughly
+* Master Trees, Graphs, Dynamic Programming and Greedy Algorithms
 * Participate in LeetCode Weekly Contests
 * Reach a **365-Day Coding Streak**
 
@@ -214,4 +222,4 @@ This repository serves as:
 
 ---
 
-### ⭐ If you like this repository, don't forget to star it!
+### ⭐ If you found this repository helpful, consider giving it a star!

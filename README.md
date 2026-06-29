@@ -2,18 +2,18 @@
 
 Welcome to my **LeetCode Problem Solving Series**! 👨‍💻
 
-This repository documents my daily journey of solving LeetCode problems to improve my **Data Structures & Algorithms (DSA)** skills, build consistency, and prepare for coding interviews.
+This repository documents my daily journey of solving LeetCode problems to strengthen my **Data Structures & Algorithms (DSA)** skills, maintain consistency, and prepare for coding interviews.
 
 ---
 
 # 🎯 Goals
 
-* 📅 Solve **1–2 LeetCode problems daily**
-* 💡 Improve problem-solving skills
+* 📅 Solve **1–2 LeetCode problems every day**
+* 💡 Improve problem-solving ability
 * 📚 Master Data Structures & Algorithms
 * 💼 Prepare for internships and placements
-* 🔥 Maintain a daily coding streak
-* 🚀 Reach **100+ solved problems**
+* 🔥 Build a long-term coding habit
+* 🚀 Reach **100+ LeetCode problems**
 
 ---
 
@@ -34,6 +34,7 @@ This repository documents my daily journey of solving LeetCode problems to impro
 |  11 | 26 Jun 2026 |      27     | Remove Element                              |   🟢 Easy  |
 |  12 | 27 Jun 2026 |      21     | Merge Two Sorted Lists                      |   🟢 Easy  |
 |  13 | 28 Jun 2026 |      1      | Two Sum                                     |   🟢 Easy  |
+|  14 | 29 Jun 2026 |     121     | Best Time to Buy and Sell Stock             |   🟢 Easy  |
 
 ---
 
@@ -41,17 +42,17 @@ This repository documents my daily journey of solving LeetCode problems to impro
 
 | Difficulty | Solved |
 | ---------- | :----: |
-| 🟢 Easy    | **12** |
+| 🟢 Easy    | **13** |
 | 🟡 Medium  |  **1** |
 | 🔴 Hard    |  **0** |
 
 ## ✅ Total Problems Solved
 
-**13**
+**14**
 
 ## 🔥 Current Streak
 
-**13 Days**
+**14 Days**
 
 ---
 
@@ -71,7 +72,7 @@ This repository documents my daily journey of solving LeetCode problems to impro
 * Sorting
 * Linked List
 * Recursion
-* Searching
+* Greedy
 
 ---
 
@@ -92,6 +93,7 @@ This repository documents my daily journey of solving LeetCode problems to impro
 | 27   | Remove Element                              | 🟢 Easy    |
 | 21   | Merge Two Sorted Lists                      | 🟢 Easy    |
 | 1    | Two Sum                                     | 🟢 Easy    |
+| 121  | Best Time to Buy and Sell Stock             | 🟢 Easy    |
 
 ---
 
@@ -152,6 +154,10 @@ LeetCode-Journey/
 │   ├── README.md
 │   └── solution.cpp
 │
+├── Day-014/
+│   ├── README.md
+│   └── solution.cpp
+│
 └── README.md
 ```
 
@@ -172,6 +178,7 @@ LeetCode-Journey/
 * **Day 11 (26 Jun 2026)** → Remove Element (#27)
 * **Day 12 (27 Jun 2026)** → Merge Two Sorted Lists (#21)
 * **Day 13 (28 Jun 2026)** → Two Sum (#1)
+* **Day 14 (29 Jun 2026)** → Best Time to Buy and Sell Stock (#121)
 
 ---
 
@@ -201,8 +208,8 @@ This repository serves as my:
 * 📖 DSA learning journal
 * 💼 Coding interview preparation
 * 📈 Progress tracker
-* 🔥 Daily consistency streak
-* 🚀 Motivation to improve every day
+* 🔥 Daily coding consistency log
+* 🚀 Portfolio of solved problems
 
 ---
 
@@ -210,9 +217,10 @@ This repository serves as my:
 
 * Complete LeetCode Easy problems
 * Solve 100+ Medium problems
-* Master Trees, Graphs, Dynamic Programming and Greedy Algorithms
-* Participate in LeetCode Weekly Contests
+* Master Trees, Graphs, Dynamic Programming, and Greedy Algorithms
+* Participate regularly in LeetCode Weekly Contests
 * Reach a **365-Day Coding Streak**
+* Achieve a LeetCode rating above **1800**
 
 ---
 

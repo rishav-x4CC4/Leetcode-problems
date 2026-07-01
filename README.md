@@ -36,6 +36,7 @@ This repository documents my daily journey of solving LeetCode problems to stren
 | 13 | 28 Jun 2026 | 1 | Two Sum | 🟢 Easy |
 | 14 | 29 Jun 2026 | 121 | Best Time to Buy and Sell Stock | 🟢 Easy |
 | 15 | 30 Jun 2026 | 58 | Length of Last Word | 🟢 Easy |
+| 16 | 01 Jul 2026 | 14 | Longest Common Prefix | 🟢 Easy |
 
 ---
 
@@ -43,17 +44,17 @@ This repository documents my daily journey of solving LeetCode problems to stren
 
 | Difficulty | Solved |
 |------------|:------:|
-| 🟢 Easy | **14** |
+| 🟢 Easy | **15** |
 | 🟡 Medium | **1** |
 | 🔴 Hard | **0** |
 
 ## ✅ Total Problems Solved
 
-**15**
+**16**
 
 ## 🔥 Current Streak
 
-**15 Days**
+**16 Days**
 
 ---
 
@@ -96,6 +97,7 @@ This repository documents my daily journey of solving LeetCode problems to stren
 | 1 | Two Sum | 🟢 Easy |
 | 121 | Best Time to Buy and Sell Stock | 🟢 Easy |
 | 58 | Length of Last Word | 🟢 Easy |
+| 14 | Longest Common Prefix | 🟢 Easy |
 
 ---
 
@@ -164,6 +166,10 @@ LeetCode-Journey/
 │   ├── README.md
 │   └── solution.cpp
 │
+├── Day-016/
+│   ├── README.md
+│   └── solution.cpp
+│
 └── README.md
 ```
 
@@ -186,6 +192,7 @@ LeetCode-Journey/
 - **Day 13 (28 Jun 2026)** → Two Sum (#1)
 - **Day 14 (29 Jun 2026)** → Best Time to Buy and Sell Stock (#121)
 - **Day 15 (30 Jun 2026)** → Length of Last Word (#58)
+- **Day 16 (01 Jul 2026)** → Longest Common Prefix (#14)
 
 ---
 

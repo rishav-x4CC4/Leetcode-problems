@@ -37,6 +37,7 @@ This repository documents my daily journey of solving LeetCode problems to stren
 | 14 | 29 Jun 2026 | 121 | Best Time to Buy and Sell Stock | 🟢 Easy |
 | 15 | 30 Jun 2026 | 58 | Length of Last Word | 🟢 Easy |
 | 16 | 01 Jul 2026 | 14 | Longest Common Prefix | 🟢 Easy |
+| 17 | 02 Jul 2026 | 4 | Median of Two Sorted Arrays | 🔴 Hard |
 
 ---
 
@@ -46,15 +47,15 @@ This repository documents my daily journey of solving LeetCode problems to stren
 |------------|:------:|
 | 🟢 Easy | **15** |
 | 🟡 Medium | **1** |
-| 🔴 Hard | **0** |
+| 🔴 Hard | **1** |
 
 ## ✅ Total Problems Solved
 
-**16**
+**17**
 
 ## 🔥 Current Streak
 
-**16 Days**
+**17 Days**
 
 ---
 
@@ -75,6 +76,8 @@ This repository documents my daily journey of solving LeetCode problems to stren
 - Linked List
 - Recursion
 - Greedy
+- Binary Search
+- Divide and Conquer
 
 ---
 
@@ -98,6 +101,7 @@ This repository documents my daily journey of solving LeetCode problems to stren
 | 121 | Best Time to Buy and Sell Stock | 🟢 Easy |
 | 58 | Length of Last Word | 🟢 Easy |
 | 14 | Longest Common Prefix | 🟢 Easy |
+| 4 | Median of Two Sorted Arrays | 🔴 Hard |
 
 ---
 
@@ -170,6 +174,10 @@ LeetCode-Journey/
 │   ├── README.md
 │   └── solution.cpp
 │
+├── Day-017/
+│   ├── README.md
+│   └── solution.cpp
+│
 └── README.md
 ```
 
@@ -193,6 +201,7 @@ LeetCode-Journey/
 - **Day 14 (29 Jun 2026)** → Best Time to Buy and Sell Stock (#121)
 - **Day 15 (30 Jun 2026)** → Length of Last Word (#58)
 - **Day 16 (01 Jul 2026)** → Longest Common Prefix (#14)
+- **Day 17 (02 Jul 2026)** → Median of Two Sorted Arrays (#4)
 
 ---
 
@@ -201,6 +210,7 @@ LeetCode-Journey/
 - ✅ First Problem Solved
 - ✅ 5 Problems Solved
 - ✅ 10 Problems Solved
+- ✅ First Hard Problem Solved
 - ⏳ 25 Problems
 - ⏳ 50 Problems
 - ⏳ 100 Problems
@@ -211,7 +221,7 @@ LeetCode-Journey/
 
 # 💻 Language Used
 
-- **C++**
+- **C++17**
 
 ---
 
@@ -231,7 +241,8 @@ This repository serves as my:
 
 - Complete LeetCode Easy problems
 - Solve 100+ Medium problems
-- Master Trees, Graphs, Dynamic Programming, and Greedy Algorithms
+- Solve more Hard problems consistently
+- Master Trees, Graphs, Dynamic Programming, Greedy, and Binary Search
 - Participate regularly in LeetCode Weekly Contests
 - Reach a **365-Day Coding Streak**
 - Achieve a LeetCode rating above **1800**
@@ -245,3 +256,4 @@ This repository serves as my:
 ---
 
 ### ⭐ If you found this repository helpful, consider giving it a star!
+```

@@ -38,6 +38,7 @@ This repository documents my daily journey of solving LeetCode problems to stren
 | 15 | 30 Jun 2026 | 58 | Length of Last Word | 🟢 Easy |
 | 16 | 01 Jul 2026 | 14 | Longest Common Prefix | 🟢 Easy |
 | 17 | 02 Jul 2026 | 4 | Median of Two Sorted Arrays | 🔴 Hard |
+| 18 | 03 Jul 2026 | 12 | Integer to Roman | 🟡 Medium |
 
 ---
 
@@ -46,16 +47,16 @@ This repository documents my daily journey of solving LeetCode problems to stren
 | Difficulty | Solved |
 |------------|:------:|
 | 🟢 Easy | **15** |
-| 🟡 Medium | **1** |
+| 🟡 Medium | **2** |
 | 🔴 Hard | **1** |
 
 ## ✅ Total Problems Solved
 
-**17**
+**18**
 
 ## 🔥 Current Streak
 
-**17 Days**
+**18 Days**
 
 ---
 
@@ -102,6 +103,7 @@ This repository documents my daily journey of solving LeetCode problems to stren
 | 58 | Length of Last Word | 🟢 Easy |
 | 14 | Longest Common Prefix | 🟢 Easy |
 | 4 | Median of Two Sorted Arrays | 🔴 Hard |
+| 12 | Integer to Roman | 🟡 Medium |
 
 ---
 
@@ -111,74 +113,33 @@ This repository documents my daily journey of solving LeetCode problems to stren
 LeetCode-Journey/
 │
 ├── Day-001/
-│   ├── README.md
-│   └── solution.cpp
-│
 ├── Day-002/
-│   ├── README.md
-│   └── solution.cpp
-│
 ├── Day-003/
-│   ├── README.md
-│   └── solution.cpp
-│
 ├── Day-004/
-│   ├── README.md
-│   └── solution.cpp
-│
 ├── Day-005/
-│   ├── README.md
-│   └── solution.cpp
-│
 ├── Day-006/
-│   ├── README.md
-│   └── solution.cpp
-│
 ├── Day-007/
-│   ├── README.md
-│   └── solution.cpp
-│
 ├── Day-008/
-│   ├── README.md
-│   └── solution.cpp
-│
 ├── Day-009/
-│   ├── README.md
-│   └── solution.cpp
-│
 ├── Day-010/
-│   ├── README.md
-│   └── solution.cpp
-│
 ├── Day-011/
-│   ├── README.md
-│   └── solution.cpp
-│
 ├── Day-012/
-│   ├── README.md
-│   └── solution.cpp
-│
 ├── Day-013/
-│   ├── README.md
-│   └── solution.cpp
-│
 ├── Day-014/
-│   ├── README.md
-│   └── solution.cpp
-│
 ├── Day-015/
-│   ├── README.md
-│   └── solution.cpp
-│
 ├── Day-016/
-│   ├── README.md
-│   └── solution.cpp
-│
 ├── Day-017/
-│   ├── README.md
-│   └── solution.cpp
+├── Day-018/
 │
 └── README.md
+```
+
+Each day's folder contains:
+
+```text
+Day-XXX/
+├── README.md
+└── solution.cpp
 ```
 
 ---
@@ -202,6 +163,7 @@ LeetCode-Journey/
 - **Day 15 (30 Jun 2026)** → Length of Last Word (#58)
 - **Day 16 (01 Jul 2026)** → Longest Common Prefix (#14)
 - **Day 17 (02 Jul 2026)** → Median of Two Sorted Arrays (#4)
+- **Day 18 (03 Jul 2026)** → Integer to Roman (#12)
 
 ---
 

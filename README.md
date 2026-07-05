@@ -8,8 +8,8 @@ Welcome to my **LeetCode Problem Solving Series**! 👨‍💻
 
 - Solve 1–2 LeetCode problems every day
 - Improve DSA
-- Build consistency
-- Crack coding interviews
+- Master problem-solving patterns
+- Prepare for coding interviews
 
 ---
 
@@ -37,6 +37,8 @@ Welcome to my **LeetCode Problem Solving Series**! 👨‍💻
 |18|03 Jul 2026|12|Integer to Roman|🟡|
 |19|05 Jul 2026|509|Fibonacci Number|🟢|
 |19|05 Jul 2026|231|Power of Two|🟢|
+|20|05 Jul 2026|283|Move Zeroes|🟢|
+|20|05 Jul 2026|344|Reverse String|🟢|
 
 ---
 
@@ -44,40 +46,40 @@ Welcome to my **LeetCode Problem Solving Series**! 👨‍💻
 
 | Difficulty | Solved |
 |------------|:------:|
-| 🟢 Easy | **17** |
+| 🟢 Easy | **19** |
 | 🟡 Medium | **2** |
 | 🔴 Hard | **1** |
 
 ## ✅ Total Problems Solved
 
-**20**
+**22**
 
 ## 🔥 Current Streak
 
-**19 Days**
+**20 Days**
 
 ---
 
 # 🧠 Topics Covered
 
-- Array
-- String
+- Arrays
+- Strings
+- Hashing
+- Hash Maps
 - Mathematics
 - Simulation
-- Hash Table
-- Hashing
-- Counting
-- STL
 - Dynamic Programming
 - Kadane's Algorithm
-- Two Pointers
-- Sorting
-- Linked List
-- Recursion
 - Greedy
+- Sorting
+- Two Pointers
 - Binary Search
 - Divide and Conquer
+- Linked List
+- Recursion
 - Bit Manipulation
+- In-place Algorithms
+- Swapping
 
 ---
 
@@ -88,10 +90,9 @@ LeetCode-Journey/
 │
 ├── Day-001/
 ├── Day-002/
-├── Day-003/
-...
-├── Day-018/
+├── ...
 ├── Day-019/
+├── Day-020/
 │   ├── README.md
 │   ├── solution1.cpp
 │   └── solution2.cpp
@@ -120,6 +121,14 @@ LeetCode-Journey/
 
 ---
 
+# 📅 Progress Summary
+
+- 📆 Days Completed: **20**
+- ✅ Problems Solved: **22**
+- 🔥 Current Streak: **20 Days**
+
+---
+
 ## 🌟 Motto
 
-> **Consistency compounds. Every problem solved today makes tomorrow's challenges easier.**
+> **Small improvements every day lead to remarkable results. Keep solving, keep growing. 🚀**

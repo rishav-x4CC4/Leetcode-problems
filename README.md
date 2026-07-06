@@ -39,6 +39,8 @@ Welcome to my **LeetCode Problem Solving Series**! 👨‍💻
 |19|05 Jul 2026|231|Power of Two|🟢|
 |20|05 Jul 2026|283|Move Zeroes|🟢|
 |20|05 Jul 2026|344|Reverse String|🟢|
+|21|06 Jul 2026|136|Single Number|🟢|
+|21|06 Jul 2026|350|Intersection of Two Arrays II|🟢|
 
 ---
 
@@ -46,17 +48,17 @@ Welcome to my **LeetCode Problem Solving Series**! 👨‍💻
 
 | Difficulty | Solved |
 |------------|:------:|
-| 🟢 Easy | **19** |
+| 🟢 Easy | **21** |
 | 🟡 Medium | **2** |
 | 🔴 Hard | **1** |
 
 ## ✅ Total Problems Solved
 
-**22**
+**24**
 
 ## 🔥 Current Streak
 
-**20 Days**
+**21 Days**
 
 ---
 
@@ -78,8 +80,10 @@ Welcome to my **LeetCode Problem Solving Series**! 👨‍💻
 - Linked List
 - Recursion
 - Bit Manipulation
+- XOR
 - In-place Algorithms
 - Swapping
+- Boolean Visited Array
 
 ---
 
@@ -91,8 +95,8 @@ LeetCode-Journey/
 ├── Day-001/
 ├── Day-002/
 ├── ...
-├── Day-019/
 ├── Day-020/
+├── Day-021/
 │   ├── README.md
 │   ├── solution1.cpp
 │   └── solution2.cpp
@@ -107,7 +111,6 @@ LeetCode-Journey/
 - ✅ First Problem Solved
 - ✅ 5 Problems Solved
 - ✅ 10 Problems Solved
-- ✅ First Hard Problem Solved
 - ✅ 20 Problems Solved
 - ⏳ 25 Problems
 - ⏳ 50 Problems
@@ -123,12 +126,12 @@ LeetCode-Journey/
 
 # 📅 Progress Summary
 
-- 📆 Days Completed: **20**
-- ✅ Problems Solved: **22**
-- 🔥 Current Streak: **20 Days**
+- 📆 Days Completed: **21**
+- ✅ Problems Solved: **24**
+- 🔥 Current Streak: **21 Days**
 
 ---
 
 ## 🌟 Motto
 
-> **Small improvements every day lead to remarkable results. Keep solving, keep growing. 🚀**
+> **Consistency beats intensity. One problem every day is one step closer to mastery. 🚀**

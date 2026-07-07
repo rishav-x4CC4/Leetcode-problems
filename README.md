@@ -41,6 +41,7 @@ Welcome to my **LeetCode Problem Solving Series**! 👨‍💻
 |20|05 Jul 2026|344|Reverse String|🟢|
 |21|06 Jul 2026|136|Single Number|🟢|
 |21|06 Jul 2026|350|Intersection of Two Arrays II|🟢|
+|22|07 Jul 2026|26|Remove Duplicates from Sorted Array|🟢|
 
 ---
 
@@ -48,17 +49,17 @@ Welcome to my **LeetCode Problem Solving Series**! 👨‍💻
 
 | Difficulty | Solved |
 |------------|:------:|
-| 🟢 Easy | **21** |
+| 🟢 Easy | **22** |
 | 🟡 Medium | **2** |
 | 🔴 Hard | **1** |
 
 ## ✅ Total Problems Solved
 
-**24**
+**25**
 
 ## 🔥 Current Streak
 
-**21 Days**
+**22 Days**
 
 ---
 
@@ -95,11 +96,10 @@ LeetCode-Journey/
 ├── Day-001/
 ├── Day-002/
 ├── ...
-├── Day-020/
 ├── Day-021/
+├── Day-022/
 │   ├── README.md
-│   ├── solution1.cpp
-│   └── solution2.cpp
+│   └── solution.cpp
 │
 └── README.md
 ```
@@ -112,7 +112,7 @@ LeetCode-Journey/
 - ✅ 5 Problems Solved
 - ✅ 10 Problems Solved
 - ✅ 20 Problems Solved
-- ⏳ 25 Problems
+- ✅ 25 Problems Solved 🎉
 - ⏳ 50 Problems
 - ⏳ 100 Problems
 
@@ -126,12 +126,12 @@ LeetCode-Journey/
 
 # 📅 Progress Summary
 
-- 📆 Days Completed: **21**
-- ✅ Problems Solved: **24**
-- 🔥 Current Streak: **21 Days**
+- 📆 Days Completed: **22**
+- ✅ Problems Solved: **25**
+- 🔥 Current Streak: **22 Days**
 
 ---
 
 ## 🌟 Motto
 
-> **Consistency beats intensity. One problem every day is one step closer to mastery. 🚀**
+> **Success is the sum of small efforts, repeated day in and day out. 🚀**

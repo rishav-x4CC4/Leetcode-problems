@@ -42,6 +42,7 @@ Welcome to my **LeetCode Problem Solving Series**! 👨‍💻
 |21|06 Jul 2026|136|Single Number|🟢|
 |21|06 Jul 2026|350|Intersection of Two Arrays II|🟢|
 |22|07 Jul 2026|26|Remove Duplicates from Sorted Array|🟢|
+|23|08 Jul 2026|867|Transpose Matrix|🟢|
 
 ---
 
@@ -49,17 +50,17 @@ Welcome to my **LeetCode Problem Solving Series**! 👨‍💻
 
 | Difficulty | Solved |
 |------------|:------:|
-| 🟢 Easy | **22** |
+| 🟢 Easy | **23** |
 | 🟡 Medium | **2** |
 | 🔴 Hard | **1** |
 
 ## ✅ Total Problems Solved
 
-**25**
+**26**
 
 ## 🔥 Current Streak
 
-**22 Days**
+**23 Days**
 
 ---
 
@@ -84,7 +85,10 @@ Welcome to my **LeetCode Problem Solving Series**! 👨‍💻
 - XOR
 - In-place Algorithms
 - Swapping
-- Boolean Visited Array
+- Matrix
+- Matrix Traversal
+- 2D Arrays
+- Matrix Transformation
 
 ---
 
@@ -96,8 +100,8 @@ LeetCode-Journey/
 ├── Day-001/
 ├── Day-002/
 ├── ...
-├── Day-021/
 ├── Day-022/
+├── Day-023/
 │   ├── README.md
 │   └── solution.cpp
 │
@@ -126,9 +130,9 @@ LeetCode-Journey/
 
 # 📅 Progress Summary
 
-- 📆 Days Completed: **22**
-- ✅ Problems Solved: **25**
-- 🔥 Current Streak: **22 Days**
+- 📆 Days Completed: **23**
+- ✅ Problems Solved: **26**
+- 🔥 Current Streak: **23 Days**
 
 ---
 

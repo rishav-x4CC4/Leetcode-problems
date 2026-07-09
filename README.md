@@ -1,6 +1,6 @@
 # 🚀 LeetCode Journey
 
-Welcome to my **LeetCode Problem Solving Series**! 👨‍💻
+Welcome to my **LeetCode Problem Solving Series** 👨‍💻
 
 ---
 
@@ -8,7 +8,7 @@ Welcome to my **LeetCode Problem Solving Series**! 👨‍💻
 
 - Solve 1–2 LeetCode problems every day
 - Improve DSA
-- Master problem-solving patterns
+- Learn common interview patterns
 - Prepare for coding interviews
 
 ---
@@ -43,6 +43,7 @@ Welcome to my **LeetCode Problem Solving Series**! 👨‍💻
 |21|06 Jul 2026|350|Intersection of Two Arrays II|🟢|
 |22|07 Jul 2026|26|Remove Duplicates from Sorted Array|🟢|
 |23|08 Jul 2026|867|Transpose Matrix|🟢|
+|24|09 Jul 2026|54|Spiral Matrix|🟡|
 
 ---
 
@@ -51,16 +52,16 @@ Welcome to my **LeetCode Problem Solving Series**! 👨‍💻
 | Difficulty | Solved |
 |------------|:------:|
 | 🟢 Easy | **23** |
-| 🟡 Medium | **2** |
+| 🟡 Medium | **3** |
 | 🔴 Hard | **1** |
 
 ## ✅ Total Problems Solved
 
-**26**
+**27**
 
 ## 🔥 Current Streak
 
-**23 Days**
+**24 Days**
 
 ---
 
@@ -87,8 +88,9 @@ Welcome to my **LeetCode Problem Solving Series**! 👨‍💻
 - Swapping
 - Matrix
 - Matrix Traversal
-- 2D Arrays
 - Matrix Transformation
+- Spiral Traversal
+- Boundary Traversal
 
 ---
 
@@ -100,8 +102,8 @@ LeetCode-Journey/
 ├── Day-001/
 ├── Day-002/
 ├── ...
-├── Day-022/
 ├── Day-023/
+├── Day-024/
 │   ├── README.md
 │   └── solution.cpp
 │
@@ -130,12 +132,12 @@ LeetCode-Journey/
 
 # 📅 Progress Summary
 
-- 📆 Days Completed: **23**
-- ✅ Problems Solved: **26**
-- 🔥 Current Streak: **23 Days**
+- 📆 Days Completed: **24**
+- ✅ Problems Solved: **27**
+- 🔥 Current Streak: **24 Days**
 
 ---
 
 ## 🌟 Motto
 
-> **Success is the sum of small efforts, repeated day in and day out. 🚀**
+> **Consistency compounds. One problem every day is one step closer to mastery. 🚀**

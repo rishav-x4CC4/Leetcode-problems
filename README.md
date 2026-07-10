@@ -7,8 +7,8 @@ Welcome to my **LeetCode Problem Solving Series** 👨‍💻
 # 🎯 Goals
 
 - Solve 1–2 LeetCode problems every day
-- Improve DSA
-- Learn common interview patterns
+- Strengthen DSA fundamentals
+- Master common interview patterns
 - Prepare for coding interviews
 
 ---
@@ -44,6 +44,7 @@ Welcome to my **LeetCode Problem Solving Series** 👨‍💻
 |22|07 Jul 2026|26|Remove Duplicates from Sorted Array|🟢|
 |23|08 Jul 2026|867|Transpose Matrix|🟢|
 |24|09 Jul 2026|54|Spiral Matrix|🟡|
+|25|10 Jul 2026|1486|XOR Operation in an Array|🟢|
 
 ---
 
@@ -51,17 +52,17 @@ Welcome to my **LeetCode Problem Solving Series** 👨‍💻
 
 | Difficulty | Solved |
 |------------|:------:|
-| 🟢 Easy | **23** |
+| 🟢 Easy | **24** |
 | 🟡 Medium | **3** |
 | 🔴 Hard | **1** |
 
 ## ✅ Total Problems Solved
 
-**27**
+**28**
 
 ## 🔥 Current Streak
 
-**24 Days**
+**25 Days**
 
 ---
 
@@ -102,8 +103,8 @@ LeetCode-Journey/
 ├── Day-001/
 ├── Day-002/
 ├── ...
-├── Day-023/
 ├── Day-024/
+├── Day-025/
 │   ├── README.md
 │   └── solution.cpp
 │
@@ -132,12 +133,12 @@ LeetCode-Journey/
 
 # 📅 Progress Summary
 
-- 📆 Days Completed: **24**
-- ✅ Problems Solved: **27**
-- 🔥 Current Streak: **24 Days**
+- 📆 Days Completed: **25**
+- ✅ Problems Solved: **28**
+- 🔥 Current Streak: **25 Days**
 
 ---
 
 ## 🌟 Motto
 
-> **Consistency compounds. One problem every day is one step closer to mastery. 🚀**
+> **Consistency beats intensity. Every problem solved today is an investment in tomorrow's success. 🚀**

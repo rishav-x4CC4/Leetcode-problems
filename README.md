@@ -45,6 +45,7 @@ Welcome to my **LeetCode Problem Solving Series** 👨‍💻
 |23|08 Jul 2026|867|Transpose Matrix|🟢|
 |24|09 Jul 2026|54|Spiral Matrix|🟡|
 |25|10 Jul 2026|1486|XOR Operation in an Array|🟢|
+|26|11 Jul 2026|905|Sort Array By Parity|🟢|
 
 ---
 
@@ -52,17 +53,17 @@ Welcome to my **LeetCode Problem Solving Series** 👨‍💻
 
 | Difficulty | Solved |
 |------------|:------:|
-| 🟢 Easy | **24** |
+| 🟢 Easy | **25** |
 | 🟡 Medium | **3** |
 | 🔴 Hard | **1** |
 
 ## ✅ Total Problems Solved
 
-**28**
+**29**
 
 ## 🔥 Current Streak
 
-**25 Days**
+**26 Days**
 
 ---
 
@@ -103,8 +104,8 @@ LeetCode-Journey/
 ├── Day-001/
 ├── Day-002/
 ├── ...
-├── Day-024/
 ├── Day-025/
+├── Day-026/
 │   ├── README.md
 │   └── solution.cpp
 │
@@ -133,12 +134,12 @@ LeetCode-Journey/
 
 # 📅 Progress Summary
 
-- 📆 Days Completed: **25**
-- ✅ Problems Solved: **28**
-- 🔥 Current Streak: **25 Days**
+- 📆 Days Completed: **26**
+- ✅ Problems Solved: **29**
+- 🔥 Current Streak: **26 Days**
 
 ---
 
 ## 🌟 Motto
 
-> **Consistency beats intensity. Every problem solved today is an investment in tomorrow's success. 🚀**
+> **Small progress each day adds up to big achievements. Keep solving, keep growing. 🚀**

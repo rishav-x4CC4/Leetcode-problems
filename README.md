@@ -46,6 +46,7 @@ Welcome to my **LeetCode Problem Solving Series** 👨‍💻
 |24|09 Jul 2026|54|Spiral Matrix|🟡|
 |25|10 Jul 2026|1486|XOR Operation in an Array|🟢|
 |26|11 Jul 2026|905|Sort Array By Parity|🟢|
+|27|12 Jul 2026|1331|Rank Transform of an Array|🟢|
 
 ---
 
@@ -53,17 +54,17 @@ Welcome to my **LeetCode Problem Solving Series** 👨‍💻
 
 | Difficulty | Solved |
 |------------|:------:|
-| 🟢 Easy | **25** |
+| 🟢 Easy | **26** |
 | 🟡 Medium | **3** |
 | 🔴 Hard | **1** |
 
 ## ✅ Total Problems Solved
 
-**29**
+**30**
 
 ## 🔥 Current Streak
 
-**26 Days**
+**27 Days**
 
 ---
 
@@ -93,6 +94,9 @@ Welcome to my **LeetCode Problem Solving Series** 👨‍💻
 - Matrix Transformation
 - Spiral Traversal
 - Boundary Traversal
+- Pair STL
+- Index Mapping
+- Ranking
 
 ---
 
@@ -104,8 +108,8 @@ LeetCode-Journey/
 ├── Day-001/
 ├── Day-002/
 ├── ...
-├── Day-025/
 ├── Day-026/
+├── Day-027/
 │   ├── README.md
 │   └── solution.cpp
 │
@@ -120,7 +124,8 @@ LeetCode-Journey/
 - ✅ 5 Problems Solved
 - ✅ 10 Problems Solved
 - ✅ 20 Problems Solved
-- ✅ 25 Problems Solved 🎉
+- ✅ 25 Problems Solved
+- ✅ 30 Problems Solved 🎉
 - ⏳ 50 Problems
 - ⏳ 100 Problems
 
@@ -134,12 +139,12 @@ LeetCode-Journey/
 
 # 📅 Progress Summary
 
-- 📆 Days Completed: **26**
-- ✅ Problems Solved: **29**
-- 🔥 Current Streak: **26 Days**
+- 📆 Days Completed: **27**
+- ✅ Problems Solved: **30**
+- 🔥 Current Streak: **27 Days**
 
 ---
 
 ## 🌟 Motto
 
-> **Small progress each day adds up to big achievements. Keep solving, keep growing. 🚀**
+> **Success is built one problem at a time. Stay consistent, stay curious, and keep coding. 🚀**

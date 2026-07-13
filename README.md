@@ -47,6 +47,7 @@ Welcome to my **LeetCode Problem Solving Series** 👨‍💻
 |25|10 Jul 2026|1486|XOR Operation in an Array|🟢|
 |26|11 Jul 2026|905|Sort Array By Parity|🟢|
 |27|12 Jul 2026|1331|Rank Transform of an Array|🟢|
+|28|13 Jul 2026|66|Plus One|🟢|
 
 ---
 
@@ -54,17 +55,17 @@ Welcome to my **LeetCode Problem Solving Series** 👨‍💻
 
 | Difficulty | Solved |
 |------------|:------:|
-| 🟢 Easy | **26** |
+| 🟢 Easy | **27** |
 | 🟡 Medium | **3** |
 | 🔴 Hard | **1** |
 
 ## ✅ Total Problems Solved
 
-**30**
+**31**
 
 ## 🔥 Current Streak
 
-**27 Days**
+**28 Days**
 
 ---
 
@@ -97,6 +98,7 @@ Welcome to my **LeetCode Problem Solving Series** 👨‍💻
 - Pair STL
 - Index Mapping
 - Ranking
+- Carry Propagation
 
 ---
 
@@ -108,8 +110,8 @@ LeetCode-Journey/
 ├── Day-001/
 ├── Day-002/
 ├── ...
-├── Day-026/
 ├── Day-027/
+├── Day-028/
 │   ├── README.md
 │   └── solution.cpp
 │
@@ -139,9 +141,9 @@ LeetCode-Journey/
 
 # 📅 Progress Summary
 
-- 📆 Days Completed: **27**
-- ✅ Problems Solved: **30**
-- 🔥 Current Streak: **27 Days**
+- 📆 Days Completed: **28**
+- ✅ Problems Solved: **31**
+- 🔥 Current Streak: **28 Days**
 
 ---
 

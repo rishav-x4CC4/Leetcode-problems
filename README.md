@@ -1,46 +1,23 @@
 # 🚀 100 Days of DSA Challenge
 
-Welcome to my **100 Days of DSA Challenge**! 💻
+Welcome to my **100 Days of DSA Challenge!**
 
-This repository documents my journey of solving Data Structures and Algorithms problems consistently for **100 consecutive days**. Every day I solve at least one problem, upload the C++ solution, and maintain a record of my progress.
+I solve at least one Data Structures & Algorithms problem every day using **C++** and document my learning journey.
 
 ---
 
 ## 🎯 Goals
 
-- Solve DSA problems consistently for 100 days.
-- Improve problem-solving skills.
-- Strengthen understanding of algorithms and data structures.
-- Prepare for coding interviews and competitive programming.
-- Build consistency and discipline.
+- Solve DSA consistently for 100 days.
+- Strengthen problem-solving skills.
+- Prepare for coding interviews.
+- Improve consistency and discipline.
 
 ---
 
-## 🛠️ Language Used
+## 💻 Language
 
 - C++
-
----
-
-## 📁 Repository Structure
-
-```
-100-Days-of-DSA/
-│
-├── Day-01/
-├── Day-02/
-├── Day-03/
-│      ├── README.md
-│      ├── solution.cpp
-│
-├── Day-04/
-│
-...
-│
-├── Day-30/
-│
-└── README.md
-```
 
 ---
 
@@ -81,6 +58,7 @@ This repository documents my journey of solving Data Structures and Algorithms p
 |29|14 Jul 2026|28|Find the Index of the First Occurrence in a String (KMP)|🟡 Medium|
 |29|14 Jul 2026|152|Maximum Product Subarray|🟡 Medium|
 |30|15 Jul 2026|3658|GCD of Odd and Even Sums|🟢 Easy|
+|30|15 Jul 2026|7|Reverse Integer|🟡 Medium|
 
 ---
 
@@ -88,15 +66,15 @@ This repository documents my journey of solving Data Structures and Algorithms p
 
 | Difficulty | Solved |
 |------------|:------:|
-|🟢 Easy|**21**|
-|🟡 Medium|**8**|
-|🔴 Hard|**1**|
+|🟢 Easy|21|
+|🟡 Medium|9|
+|🔴 Hard|1|
 
 ---
 
 # ✅ Total Problems Solved
 
-**30**
+**31**
 
 ---
 
@@ -109,17 +87,18 @@ This repository documents my journey of solving Data Structures and Algorithms p
 - Matrix
 - Sorting
 - Binary Search
-- Prefix
 - Dynamic Programming
 - Kadane's Algorithm
 - Mathematics
 - Number Theory
 - Greatest Common Divisor (GCD)
 - Bit Manipulation
-- Simulation
+- KMP Algorithm
 - Greedy
-- KMP (Knuth-Morris-Pratt)
+- Simulation
 - Recursion
+- Overflow Handling
+- Integer Manipulation
 
 ---
 
@@ -141,9 +120,9 @@ This repository documents my journey of solving Data Structures and Algorithms p
 # 📅 Progress Summary
 
 - 📆 Days Completed: **30**
-- ✅ Problems Solved: **30**
+- ✅ Problems Solved: **31**
 - 🟢 Easy: **21**
-- 🟡 Medium: **8**
+- 🟡 Medium: **9**
 - 🔴 Hard: **1**
 - 🔥 Current Streak: **30 Days**
 
@@ -155,4 +134,4 @@ This repository documents my journey of solving Data Structures and Algorithms p
 
 ---
 
-> *"Consistency beats intensity. One problem every day is better than solving many only once in a while."* 🚀
+> *"Consistency beats intensity. Small progress every day compounds into remarkable results."* 🚀

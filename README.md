@@ -1,58 +1,86 @@
-# 🚀 LeetCode Journey
+# 🚀 100 Days of DSA Challenge
 
-Welcome to my **LeetCode Problem Solving Series** 👨‍💻
+Welcome to my **100 Days of DSA Challenge**! 💻
 
-This repository documents my daily LeetCode practice as I strengthen my Data Structures & Algorithms skills for coding interviews and competitive programming.
-
----
-
-# 🎯 Goals
-
-- ✅ Solve 1–2 LeetCode problems every day
-- ✅ Strengthen DSA fundamentals
-- ✅ Master common interview patterns
-- ✅ Improve problem-solving speed
-- ✅ Prepare for software engineering interviews
+This repository documents my journey of solving Data Structures and Algorithms problems consistently for **100 consecutive days**. Every day I solve at least one problem, upload the C++ solution, and maintain a record of my progress.
 
 ---
 
-# 📈 Progress
+## 🎯 Goals
+
+- Solve DSA problems consistently for 100 days.
+- Improve problem-solving skills.
+- Strengthen understanding of algorithms and data structures.
+- Prepare for coding interviews and competitive programming.
+- Build consistency and discipline.
+
+---
+
+## 🛠️ Language Used
+
+- C++
+
+---
+
+## 📁 Repository Structure
+
+```
+100-Days-of-DSA/
+│
+├── Day-01/
+├── Day-02/
+├── Day-03/
+│      ├── README.md
+│      ├── solution.cpp
+│
+├── Day-04/
+│
+...
+│
+├── Day-30/
+│
+└── README.md
+```
+
+---
+
+# 📅 Progress
 
 | Day | Date | Problem No. | Problem | Difficulty |
 |:---:|:----:|:-----------:|---------|:----------:|
-|1|16 Jun 2026|3945|Digit Frequency Score|🟢 Easy|
-|2|17 Jun 2026|1929|Concatenation of Array|🟢 Easy|
-|3|18 Jun 2026|3110|Score of a String|🟢 Easy|
-|4|19 Jun 2026|1108|Defanging an IP Address|🟢 Easy|
-|5|20 Jun 2026|53|Maximum Subarray|🟡 Medium|
-|6|21 Jun 2026|88|Merge Sorted Array|🟢 Easy|
-|7|22 Jun 2026|3541|Find Most Frequent Vowel and Consonant|🟢 Easy|
-|8|23 Jun 2026|2894|Divisible and Non-divisible Sums Difference|🟢 Easy|
-|9|24 Jun 2026|13|Roman to Integer|🟢 Easy|
-|10|25 Jun 2026|9|Palindrome Number|🟢 Easy|
-|11|26 Jun 2026|27|Remove Element|🟢 Easy|
-|12|27 Jun 2026|21|Merge Two Sorted Lists|🟢 Easy|
-|13|28 Jun 2026|1|Two Sum|🟢 Easy|
-|14|29 Jun 2026|121|Best Time to Buy and Sell Stock|🟢 Easy|
-|15|30 Jun 2026|58|Length of Last Word|🟢 Easy|
-|16|01 Jul 2026|14|Longest Common Prefix|🟢 Easy|
-|17|02 Jul 2026|4|Median of Two Sorted Arrays|🔴 Hard|
-|18|03 Jul 2026|12|Integer to Roman|🟡 Medium|
-|19|05 Jul 2026|509|Fibonacci Number|🟢 Easy|
-|19|05 Jul 2026|231|Power of Two|🟢 Easy|
-|20|05 Jul 2026|283|Move Zeroes|🟢 Easy|
-|20|05 Jul 2026|344|Reverse String|🟢 Easy|
-|21|06 Jul 2026|136|Single Number|🟢 Easy|
-|21|06 Jul 2026|350|Intersection of Two Arrays II|🟢 Easy|
-|22|07 Jul 2026|26|Remove Duplicates from Sorted Array|🟢 Easy|
-|23|08 Jul 2026|867|Transpose Matrix|🟢 Easy|
-|24|09 Jul 2026|54|Spiral Matrix|🟡 Medium|
-|25|10 Jul 2026|1486|XOR Operation in an Array|🟢 Easy|
-|26|11 Jul 2026|905|Sort Array By Parity|🟢 Easy|
-|27|12 Jul 2026|1331|Rank Transform of an Array|🟢 Easy|
-|28|13 Jul 2026|66|Plus One|🟢 Easy|
-|29|14 Jul 2026|28|Find the Index of the First Occurrence in a String|🟢 Easy|
+|1|13 Jun 2026|26|Remove Duplicates from Sorted Array|🟢 Easy|
+|2|14 Jun 2026|905|Sort Array By Parity|🟢 Easy|
+|3|15 Jun 2026|283|Move Zeroes|🟢 Easy|
+|4|16 Jun 2026|344|Reverse String|🟢 Easy|
+|5|17 Jun 2026|509|Fibonacci Number|🟢 Easy|
+|6|18 Jun 2026|231|Power of Two|🟢 Easy|
+|7|19 Jun 2026|136|Single Number|🟢 Easy|
+|8|20 Jun 2026|350|Intersection of Two Arrays II|🟢 Easy|
+|9|21 Jun 2026|867|Transpose Matrix|🟢 Easy|
+|10|22 Jun 2026|54|Spiral Matrix|🟡 Medium|
+|11|23 Jun 2026|1486|XOR Operation in an Array|🟢 Easy|
+|12|24 Jun 2026|905|Sort Array By Parity (Optimized)|🟢 Easy|
+|13|25 Jun 2026|1331|Rank Transform of an Array|🟢 Easy|
+|14|26 Jun 2026|66|Plus One|🟢 Easy|
+|15|27 Jun 2026|28|Find the Index of the First Occurrence in a String|🟡 Medium|
+|16|28 Jun 2026|152|Maximum Product Subarray|🟡 Medium|
+|17|29 Jun 2026|4|Median of Two Sorted Arrays|🔴 Hard|
+|18|30 Jun 2026|12|Integer to Roman|🟡 Medium|
+|19|1 Jul 2026|14|Longest Common Prefix|🟢 Easy|
+|20|2 Jul 2026|58|Length of Last Word|🟢 Easy|
+|21|5 Jul 2026|509|Fibonacci Number|🟢 Easy|
+|21|5 Jul 2026|231|Power of Two|🟢 Easy|
+|22|6 Jul 2026|136|Single Number|🟢 Easy|
+|22|6 Jul 2026|350|Intersection of Two Arrays II|🟢 Easy|
+|23|7 Jul 2026|26|Remove Duplicates from Sorted Array|🟢 Easy|
+|24|8 Jul 2026|867|Transpose Matrix|🟢 Easy|
+|25|9 Jul 2026|54|Spiral Matrix|🟡 Medium|
+|26|10 Jul 2026|1486|XOR Operation in an Array|🟢 Easy|
+|27|11 Jul 2026|905|Sort Array By Parity|🟢 Easy|
+|28|12 Jul 2026|1331|Rank Transform of an Array|🟢 Easy|
+|29|14 Jul 2026|28|Find the Index of the First Occurrence in a String (KMP)|🟡 Medium|
 |29|14 Jul 2026|152|Maximum Product Subarray|🟡 Medium|
+|30|15 Jul 2026|3658|GCD of Odd and Even Sums|🟢 Easy|
 
 ---
 
@@ -60,97 +88,38 @@ This repository documents my daily LeetCode practice as I strengthen my Data Str
 
 | Difficulty | Solved |
 |------------|:------:|
-| 🟢 Easy | **28** |
-| 🟡 Medium | **4** |
-| 🔴 Hard | **1** |
-
-## ✅ Total Problems Solved
-
-**33**
-
-## 🔥 Current Streak
-
-**29 Days**
+|🟢 Easy|**21**|
+|🟡 Medium|**8**|
+|🔴 Hard|**1**|
 
 ---
 
-# 🧠 Topics Covered
+# ✅ Total Problems Solved
+
+**30**
+
+---
+
+# 📚 Topics Covered
 
 - Arrays
 - Strings
-- Hash Maps
+- Two Pointers
 - Hashing
-- Mathematics
-- Simulation
+- Matrix
 - Sorting
-- Greedy
+- Binary Search
+- Prefix
 - Dynamic Programming
 - Kadane's Algorithm
-- Maximum Product Subarray
-- Binary Search
-- Divide and Conquer
-- Two Pointers
-- Linked Lists
-- Recursion
+- Mathematics
+- Number Theory
+- Greatest Common Divisor (GCD)
 - Bit Manipulation
-- XOR
-- Prefix XOR
-- In-place Algorithms
-- Swapping
-- Matrix
-- Matrix Traversal
-- Matrix Transformation
-- Spiral Traversal
-- Boundary Traversal
-- Pair STL
-- Index Mapping
-- Ranking
-- Carry Propagation
-- Pattern Matching
-- KMP Algorithm
-- Longest Prefix Suffix (LPS)
-
----
-
-# 📂 Repository Structure
-
-```text
-LeetCode-Journey/
-│
-├── Day-001/
-│   ├── README.md
-│   └── solution.cpp
-│
-├── Day-002/
-│   ├── README.md
-│   └── solution.cpp
-│
-├── ...
-│
-├── Day-019/
-│   ├── README.md
-│   ├── solution1.cpp
-│   └── solution2.cpp
-│
-├── Day-020/
-│   ├── README.md
-│   ├── solution1.cpp
-│   └── solution2.cpp
-│
-├── Day-021/
-│   ├── README.md
-│   ├── solution1.cpp
-│   └── solution2.cpp
-│
-├── ...
-│
-├── Day-029/
-│   ├── README.md
-│   ├── solution1.cpp
-│   └── solution2.cpp
-│
-└── README.md
-```
+- Simulation
+- Greedy
+- KMP (Knuth-Morris-Pratt)
+- Recursion
 
 ---
 
@@ -161,41 +130,29 @@ LeetCode-Journey/
 - ✅ 10 Problems Solved
 - ✅ 20 Problems Solved
 - ✅ 25 Problems Solved
-- ✅ 30 Problems Solved 🎉
+- ✅ 30 Problems Solved
+- ⏳ 40 Problems
 - ⏳ 50 Problems
 - ⏳ 75 Problems
 - ⏳ 100 Problems
 
 ---
 
-# 💻 Language
-
-**C++17**
-
----
-
 # 📅 Progress Summary
 
-- 📆 Days Completed: **29**
-- ✅ Problems Solved: **33**
-- 🟢 Easy: **28**
-- 🟡 Medium: **4**
+- 📆 Days Completed: **30**
+- ✅ Problems Solved: **30**
+- 🟢 Easy: **21**
+- 🟡 Medium: **8**
 - 🔴 Hard: **1**
-- 🔥 Current Streak: **29 Days**
+- 🔥 Current Streak: **30 Days**
 
 ---
 
-# ⭐ Repository Highlights
+## 🤝 Connect With Me
 
-- Daily consistency
-- Clean and readable C++ solutions
-- Optimized approaches whenever possible
-- Standard C++ implementations
-- Well-documented daily progress
-- Covers interview-focused DSA patterns
+**GitHub:** https://github.com/rishav-x4C4
 
 ---
 
-## 🌟 Motto
-
-> **"Success is built one problem at a time. Stay consistent, stay curious, and keep coding." 🚀
+> *"Consistency beats intensity. One problem every day is better than solving many only once in a while."* 🚀

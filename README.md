@@ -1,23 +1,44 @@
 # 🚀 100 Days of DSA Challenge
 
-Welcome to my **100 Days of DSA Challenge!**
+Welcome to my **100 Days of DSA Challenge!** 💻
 
-I solve at least one Data Structures & Algorithms problem every day using **C++** and document my learning journey.
+This repository documents my journey of solving **Data Structures & Algorithms** problems consistently for **100 consecutive days**. Every day, I solve at least one problem in **C++**, upload the solution, and track my progress.
 
 ---
 
-## 🎯 Goals
+# 🎯 Goals
 
-- Solve DSA consistently for 100 days.
+- Solve DSA problems consistently for 100 days.
 - Strengthen problem-solving skills.
-- Prepare for coding interviews.
-- Improve consistency and discipline.
+- Master fundamental data structures and algorithms.
+- Prepare for coding interviews and competitive programming.
+- Build discipline through daily coding.
 
 ---
 
-## 💻 Language
+# 💻 Language
 
 - C++
+
+---
+
+# 📂 Repository Structure
+
+```text
+100-Days-of-DSA/
+│
+├── Day-01/
+├── Day-02/
+├── Day-03/
+│     ├── README.md
+│     ├── solution.cpp
+│
+...
+│
+├── Day-31/
+│
+└── README.md
+```
 
 ---
 
@@ -59,6 +80,8 @@ I solve at least one Data Structures & Algorithms problem every day using **C++*
 |29|14 Jul 2026|152|Maximum Product Subarray|🟡 Medium|
 |30|15 Jul 2026|3658|GCD of Odd and Even Sums|🟢 Easy|
 |30|15 Jul 2026|7|Reverse Integer|🟡 Medium|
+|31|16 Jul 2026|238|Product of Array Except Self|🟡 Medium|
+|31|16 Jul 2026|204|Count Primes|🟡 Medium|
 
 ---
 
@@ -66,15 +89,15 @@ I solve at least one Data Structures & Algorithms problem every day using **C++*
 
 | Difficulty | Solved |
 |------------|:------:|
-|🟢 Easy|21|
-|🟡 Medium|9|
-|🔴 Hard|1|
+| 🟢 Easy | **21** |
+| 🟡 Medium | **11** |
+| 🔴 Hard | **1** |
 
 ---
 
 # ✅ Total Problems Solved
 
-**31**
+**33**
 
 ---
 
@@ -87,18 +110,23 @@ I solve at least one Data Structures & Algorithms problem every day using **C++*
 - Matrix
 - Sorting
 - Binary Search
+- Prefix Sum
+- Prefix Product
+- Suffix Product
 - Dynamic Programming
 - Kadane's Algorithm
 - Mathematics
 - Number Theory
 - Greatest Common Divisor (GCD)
+- Prime Numbers
+- Sieve of Eratosthenes
 - Bit Manipulation
-- KMP Algorithm
-- Greedy
 - Simulation
-- Recursion
+- Greedy
+- KMP (Knuth-Morris-Pratt)
 - Overflow Handling
 - Integer Manipulation
+- Recursion
 
 ---
 
@@ -119,19 +147,19 @@ I solve at least one Data Structures & Algorithms problem every day using **C++*
 
 # 📅 Progress Summary
 
-- 📆 Days Completed: **30**
-- ✅ Problems Solved: **31**
+- 📆 Days Completed: **31**
+- ✅ Problems Solved: **33**
 - 🟢 Easy: **21**
-- 🟡 Medium: **9**
+- 🟡 Medium: **11**
 - 🔴 Hard: **1**
-- 🔥 Current Streak: **30 Days**
+- 🔥 Current Streak: **31 Days**
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
-**GitHub:** https://github.com/rishav-x4C4
+- **GitHub:** https://github.com/rishav-x4C4
 
 ---
 
-> *"Consistency beats intensity. Small progress every day compounds into remarkable results."* 🚀
+> *"Consistency beats intensity. One problem every day is a step closer to mastery."* 🚀

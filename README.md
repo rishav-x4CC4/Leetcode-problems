@@ -1,165 +1,111 @@
-# 🚀 100 Days of DSA Challenge
+# 💯 100 Days of DSA Challenge
 
-Welcome to my **100 Days of DSA Challenge!** 💻
+Welcome to my **100 Days of DSA Challenge**! 🚀
 
-This repository documents my journey of solving **Data Structures & Algorithms** problems consistently for **100 consecutive days**. Every day, I solve at least one problem in **C++**, upload the solution, and track my progress.
-
----
-
-# 🎯 Goals
-
-- Solve DSA problems consistently for 100 days.
-- Strengthen problem-solving skills.
-- Master fundamental data structures and algorithms.
-- Prepare for coding interviews and competitive programming.
-- Build discipline through daily coding.
+I'm solving Data Structures and Algorithms problems daily to strengthen my problem-solving skills, improve consistency, and prepare for coding interviews.
 
 ---
 
-# 💻 Language
+## 📅 Progress
 
-- C++
-
----
-
-# 📂 Repository Structure
-
-```text
-100-Days-of-DSA/
-│
-├── Day-01/
-├── Day-02/
-├── Day-03/
-│     ├── README.md
-│     ├── solution.cpp
-│
-...
-│
-├── Day-31/
-│
-└── README.md
-```
-
----
-
-# 📅 Progress
-
-| Day | Date | Problem No. | Problem | Difficulty |
-|:---:|:----:|:-----------:|---------|:----------:|
-|1|13 Jun 2026|26|Remove Duplicates from Sorted Array|🟢 Easy|
-|2|14 Jun 2026|905|Sort Array By Parity|🟢 Easy|
-|3|15 Jun 2026|283|Move Zeroes|🟢 Easy|
-|4|16 Jun 2026|344|Reverse String|🟢 Easy|
-|5|17 Jun 2026|509|Fibonacci Number|🟢 Easy|
-|6|18 Jun 2026|231|Power of Two|🟢 Easy|
-|7|19 Jun 2026|136|Single Number|🟢 Easy|
-|8|20 Jun 2026|350|Intersection of Two Arrays II|🟢 Easy|
-|9|21 Jun 2026|867|Transpose Matrix|🟢 Easy|
-|10|22 Jun 2026|54|Spiral Matrix|🟡 Medium|
-|11|23 Jun 2026|1486|XOR Operation in an Array|🟢 Easy|
-|12|24 Jun 2026|905|Sort Array By Parity (Optimized)|🟢 Easy|
-|13|25 Jun 2026|1331|Rank Transform of an Array|🟢 Easy|
-|14|26 Jun 2026|66|Plus One|🟢 Easy|
-|15|27 Jun 2026|28|Find the Index of the First Occurrence in a String|🟡 Medium|
-|16|28 Jun 2026|152|Maximum Product Subarray|🟡 Medium|
-|17|29 Jun 2026|4|Median of Two Sorted Arrays|🔴 Hard|
-|18|30 Jun 2026|12|Integer to Roman|🟡 Medium|
-|19|1 Jul 2026|14|Longest Common Prefix|🟢 Easy|
-|20|2 Jul 2026|58|Length of Last Word|🟢 Easy|
-|21|5 Jul 2026|509|Fibonacci Number|🟢 Easy|
-|21|5 Jul 2026|231|Power of Two|🟢 Easy|
-|22|6 Jul 2026|136|Single Number|🟢 Easy|
-|22|6 Jul 2026|350|Intersection of Two Arrays II|🟢 Easy|
-|23|7 Jul 2026|26|Remove Duplicates from Sorted Array|🟢 Easy|
-|24|8 Jul 2026|867|Transpose Matrix|🟢 Easy|
-|25|9 Jul 2026|54|Spiral Matrix|🟡 Medium|
-|26|10 Jul 2026|1486|XOR Operation in an Array|🟢 Easy|
-|27|11 Jul 2026|905|Sort Array By Parity|🟢 Easy|
-|28|12 Jul 2026|1331|Rank Transform of an Array|🟢 Easy|
-|29|14 Jul 2026|28|Find the Index of the First Occurrence in a String (KMP)|🟡 Medium|
-|29|14 Jul 2026|152|Maximum Product Subarray|🟡 Medium|
-|30|15 Jul 2026|3658|GCD of Odd and Even Sums|🟢 Easy|
-|30|15 Jul 2026|7|Reverse Integer|🟡 Medium|
-|31|16 Jul 2026|238|Product of Array Except Self|🟡 Medium|
-|31|16 Jul 2026|204|Count Primes|🟡 Medium|
+| Day | Date | Problems Solved |
+|:---:|:-----|:----------------|
+| 1 | 16 Jun 2026 | LeetCode 217 - Contains Duplicate |
+| 2 | 17 Jun 2026 | LeetCode 242 - Valid Anagram |
+| 3 | 18 Jun 2026 | LeetCode 1 - Two Sum |
+| 4 | 19 Jun 2026 | LeetCode 9 - Palindrome Number |
+| 5 | 20 Jun 2026 | LeetCode 13 - Roman to Integer |
+| 6 | 21 Jun 2026 | LeetCode 20 - Valid Parentheses |
+| 7 | 22 Jun 2026 | LeetCode 21 - Merge Two Sorted Lists |
+| 8 | 23 Jun 2026 | LeetCode 26 - Remove Duplicates from Sorted Array |
+| 9 | 24 Jun 2026 | LeetCode 27 - Remove Element |
+| 10 | 25 Jun 2026 | LeetCode 35 - Search Insert Position |
+| 11 | 26 Jun 2026 | LeetCode 58 - Length of Last Word |
+| 12 | 27 Jun 2026 | LeetCode 66 - Plus One |
+| 13 | 28 Jun 2026 | LeetCode 67 - Add Binary |
+| 14 | 29 Jun 2026 | LeetCode 69 - Sqrt(x) |
+| 15 | 30 Jun 2026 | LeetCode 70 - Climbing Stairs |
+| 16 | 1 Jul 2026 | LeetCode 509 - Fibonacci Number, LeetCode 231 - Power of Two |
+| 17 | 5 Jul 2026 | LeetCode 283 - Move Zeroes, LeetCode 344 - Reverse String |
+| 18 | 6 Jul 2026 | LeetCode 136 - Single Number, LeetCode 350 - Intersection of Two Arrays II |
+| 19 | 7 Jul 2026 | LeetCode 26 - Remove Duplicates from Sorted Array |
+| 20 | 8 Jul 2026 | LeetCode 867 - Transpose Matrix, LeetCode 54 - Spiral Matrix |
+| 21 | 10 Jul 2026 | LeetCode 1486 - XOR Operation in an Array, LeetCode 905 - Sort Array By Parity |
+| 22 | 12 Jul 2026 | LeetCode 1331 - Rank Transform of an Array |
+| 23 | 13 Jul 2026 | LeetCode 66 - Plus One |
+| 24 | 14 Jul 2026 | LeetCode 28 - Find the Index of the First Occurrence in a String, LeetCode 152 - Maximum Product Subarray |
+| 25 | 15 Jul 2026 | LeetCode 1979 - GCD of Odd and Even Sums, LeetCode 7 - Reverse Integer |
+| 26 | — | Reserved |
+| 27 | — | Reserved |
+| 28 | — | Reserved |
+| 29 | — | Reserved |
+| 30 | 16 Jul 2026 | LeetCode 238 - Product of Array Except Self, LeetCode 204 - Count Primes |
+| 31 | — | Reserved |
+| 32 | 17 Jul 2026 | LeetCode 15 - 3Sum |
 
 ---
 
 # 📊 Statistics
 
-| Difficulty | Solved |
-|------------|:------:|
+| Difficulty | Count |
+|------------|------:|
 | 🟢 Easy | **21** |
-| 🟡 Medium | **11** |
-| 🔴 Hard | **1** |
+| 🟡 Medium | **13** |
+| 🔴 Hard | **0** |
+
+**Total Problems Solved:** **34**
 
 ---
 
-# ✅ Total Problems Solved
-
-**33**
-
----
-
-# 📚 Topics Covered
+# 🧠 Topics Covered
 
 - Arrays
 - Strings
-- Two Pointers
 - Hashing
-- Matrix
 - Sorting
+- Two Pointers
 - Binary Search
 - Prefix Sum
-- Prefix Product
-- Suffix Product
-- Dynamic Programming
-- Kadane's Algorithm
-- Mathematics
-- Number Theory
-- Greatest Common Divisor (GCD)
-- Prime Numbers
-- Sieve of Eratosthenes
-- Bit Manipulation
+- Matrix
 - Simulation
-- Greedy
-- KMP (Knuth-Morris-Pratt)
-- Overflow Handling
-- Integer Manipulation
+- Bit Manipulation
+- Math
+- Number Theory
 - Recursion
+- Dynamic Programming
+- Greedy
+- KMP Algorithm
+- Sieve of Eratosthenes
 
 ---
 
-# 🏆 Milestones
+# 🎯 Goals
 
-- ✅ First Problem Solved
-- ✅ 5 Problems Solved
-- ✅ 10 Problems Solved
-- ✅ 20 Problems Solved
-- ✅ 25 Problems Solved
-- ✅ 30 Problems Solved
-- ⏳ 40 Problems
-- ⏳ 50 Problems
-- ⏳ 75 Problems
-- ⏳ 100 Problems
+- Complete **100 Days of DSA**
+- Master Data Structures & Algorithms
+- Improve coding speed
+- Strengthen problem-solving skills
+- Prepare for coding interviews
+- Maintain consistency every day
 
 ---
 
-# 📅 Progress Summary
+# 🛠️ Language
 
-- 📆 Days Completed: **31**
-- ✅ Problems Solved: **33**
-- 🟢 Easy: **21**
-- 🟡 Medium: **11**
-- 🔴 Hard: **1**
-- 🔥 Current Streak: **31 Days**
+- C++
 
 ---
 
-# 🤝 Connect With Me
+# 📈 Current Progress
 
-- **GitHub:** https://github.com/rishav-x4C4
+- ✅ Days Completed: **32 / 100**
+- ✅ Problems Solved: **34**
+- 🔥 Current Streak: **32 Days**
 
 ---
 
-> *"Consistency beats intensity. One problem every day is a step closer to mastery."* 🚀
+## ⭐ Connect with Me
+
+If you like this repository, consider giving it a ⭐ and follow my journey!
+
+Happy Coding! 🚀

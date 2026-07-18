@@ -1,12 +1,12 @@
 # 💯 100 Days of DSA Challenge
 
-Welcome to my **100 Days of DSA Challenge**! 🚀
+Welcome to my **100 Days of DSA Challenge!** 🚀
 
-I'm solving Data Structures and Algorithms problems daily to strengthen my problem-solving skills, improve consistency, and prepare for coding interviews.
+I'm solving Data Structures and Algorithms problems every day to improve my problem-solving skills, strengthen my understanding of core concepts, and prepare for coding interviews.
 
 ---
 
-## 📅 Progress
+# 📅 Progress
 
 | Day | Date | Problems Solved |
 |:---:|:-----|:----------------|
@@ -25,7 +25,7 @@ I'm solving Data Structures and Algorithms problems daily to strengthen my probl
 | 13 | 28 Jun 2026 | LeetCode 67 - Add Binary |
 | 14 | 29 Jun 2026 | LeetCode 69 - Sqrt(x) |
 | 15 | 30 Jun 2026 | LeetCode 70 - Climbing Stairs |
-| 16 | 1 Jul 2026 | LeetCode 509 - Fibonacci Number, LeetCode 231 - Power of Two |
+| 16 | 4 Jul 2026 | LeetCode 509 - Fibonacci Number, LeetCode 231 - Power of Two |
 | 17 | 5 Jul 2026 | LeetCode 283 - Move Zeroes, LeetCode 344 - Reverse String |
 | 18 | 6 Jul 2026 | LeetCode 136 - Single Number, LeetCode 350 - Intersection of Two Arrays II |
 | 19 | 7 Jul 2026 | LeetCode 26 - Remove Duplicates from Sorted Array |
@@ -42,18 +42,19 @@ I'm solving Data Structures and Algorithms problems daily to strengthen my probl
 | 30 | 16 Jul 2026 | LeetCode 238 - Product of Array Except Self, LeetCode 204 - Count Primes |
 | 31 | — | Reserved |
 | 32 | 17 Jul 2026 | LeetCode 15 - 3Sum |
+| 33 | 18 Jul 2026 | LeetCode 206 - Reverse Linked List, LeetCode 876 - Middle of the Linked List |
 
 ---
 
 # 📊 Statistics
 
-| Difficulty | Count |
-|------------|------:|
-| 🟢 Easy | **21** |
+| Difficulty | Solved |
+|------------|:------:|
+| 🟢 Easy | **23** |
 | 🟡 Medium | **13** |
 | 🔴 Hard | **0** |
 
-**Total Problems Solved:** **34**
+**Total Problems Solved:** **36**
 
 ---
 
@@ -74,6 +75,9 @@ I'm solving Data Structures and Algorithms problems daily to strengthen my probl
 - Recursion
 - Dynamic Programming
 - Greedy
+- Linked List
+- Pointer Manipulation
+- Fast & Slow Pointer
 - KMP Algorithm
 - Sieve of Eratosthenes
 
@@ -81,31 +85,31 @@ I'm solving Data Structures and Algorithms problems daily to strengthen my probl
 
 # 🎯 Goals
 
-- Complete **100 Days of DSA**
-- Master Data Structures & Algorithms
-- Improve coding speed
-- Strengthen problem-solving skills
-- Prepare for coding interviews
-- Maintain consistency every day
+- ✅ Complete **100 Days of DSA Challenge**
+- ✅ Improve problem-solving skills
+- ✅ Strengthen understanding of DSA fundamentals
+- ✅ Build consistency through daily practice
+- ✅ Prepare for coding interviews
+- ✅ Solve problems with optimal approaches
 
 ---
 
-# 🛠️ Language
+# 🛠️ Language Used
 
-- C++
+- **C++**
 
 ---
 
 # 📈 Current Progress
 
-- ✅ Days Completed: **32 / 100**
-- ✅ Problems Solved: **34**
-- 🔥 Current Streak: **32 Days**
+- 📅 Days Completed: **33 / 100**
+- ✅ Problems Solved: **36**
+- 🔥 Current Streak: **33 Days**
 
 ---
 
 ## ⭐ Connect with Me
 
-If you like this repository, consider giving it a ⭐ and follow my journey!
+If you found this repository helpful or inspiring, consider giving it a ⭐.
 
 Happy Coding! 🚀

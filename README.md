@@ -43,6 +43,7 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 | 31 | — | Reserved |
 | 32 | 17 Jul 2026 | LeetCode 15 - 3Sum |
 | 33 | 18 Jul 2026 | LeetCode 206 - Reverse Linked List, LeetCode 876 - Middle of the Linked List |
+| 34 | 19 Jul 2026 | LeetCode 51 - N-Queens |
 
 ---
 
@@ -52,9 +53,9 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 |------------|:------:|
 | 🟢 Easy | **23** |
 | 🟡 Medium | **13** |
-| 🔴 Hard | **0** |
+| 🔴 Hard | **1** |
 
-**Total Problems Solved:** **36**
+**Total Problems Solved:** **37**
 
 ---
 
@@ -78,6 +79,9 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 - Linked List
 - Pointer Manipulation
 - Fast & Slow Pointer
+- Backtracking
+- Depth First Search (DFS)
+- Branch & Bound
 - KMP Algorithm
 - Sieve of Eratosthenes
 
@@ -86,11 +90,11 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 # 🎯 Goals
 
 - ✅ Complete **100 Days of DSA Challenge**
-- ✅ Improve problem-solving skills
-- ✅ Strengthen understanding of DSA fundamentals
-- ✅ Build consistency through daily practice
+- ✅ Build strong DSA fundamentals
+- ✅ Improve problem-solving speed
+- ✅ Master optimal algorithms and data structures
 - ✅ Prepare for coding interviews
-- ✅ Solve problems with optimal approaches
+- ✅ Stay consistent every single day
 
 ---
 
@@ -102,9 +106,12 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 
 # 📈 Current Progress
 
-- 📅 Days Completed: **33 / 100**
-- ✅ Problems Solved: **36**
-- 🔥 Current Streak: **33 Days**
+- 📅 Days Completed: **34 / 100**
+- ✅ Problems Solved: **37**
+- 🟢 Easy: **23**
+- 🟡 Medium: **13**
+- 🔴 Hard: **1**
+- 🔥 Current Streak: **34 Days**
 
 ---
 
@@ -113,3 +120,4 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 If you found this repository helpful or inspiring, consider giving it a ⭐.
 
 Happy Coding! 🚀
+```

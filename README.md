@@ -34,7 +34,7 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 | 22 | 12 Jul 2026 | LeetCode 1331 - Rank Transform of an Array |
 | 23 | 13 Jul 2026 | LeetCode 66 - Plus One |
 | 24 | 14 Jul 2026 | LeetCode 28 - Find the Index of the First Occurrence in a String, LeetCode 152 - Maximum Product Subarray |
-| 25 | 15 Jul 2026 | LeetCode 1979 - GCD of Odd and Even Sums, LeetCode 7 - Reverse Integer |
+| 25 | 15 Jul 2026 | LeetCode 3658 - GCD of Odd and Even Sums, LeetCode 7 - Reverse Integer |
 | 26 | — | Reserved |
 | 27 | — | Reserved |
 | 28 | — | Reserved |
@@ -44,6 +44,7 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 | 32 | 17 Jul 2026 | LeetCode 15 - 3Sum |
 | 33 | 18 Jul 2026 | LeetCode 206 - Reverse Linked List, LeetCode 876 - Middle of the Linked List |
 | 34 | 19 Jul 2026 | LeetCode 51 - N-Queens |
+| 35 | 20 Jul 2026 | LeetCode 23 - Merge K Sorted Lists |
 
 ---
 
@@ -53,9 +54,9 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 |------------|:------:|
 | 🟢 Easy | **23** |
 | 🟡 Medium | **13** |
-| 🔴 Hard | **1** |
+| 🔴 Hard | **2** |
 
-**Total Problems Solved:** **37**
+**Total Problems Solved:** **38**
 
 ---
 
@@ -82,6 +83,9 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 - Backtracking
 - Depth First Search (DFS)
 - Branch & Bound
+- Heap (Priority Queue)
+- Divide & Conquer
+- Merge Techniques
 - KMP Algorithm
 - Sieve of Eratosthenes
 
@@ -106,12 +110,12 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 
 # 📈 Current Progress
 
-- 📅 Days Completed: **34 / 100**
-- ✅ Problems Solved: **37**
+- 📅 Days Completed: **35 / 100**
+- ✅ Problems Solved: **38**
 - 🟢 Easy: **23**
 - 🟡 Medium: **13**
-- 🔴 Hard: **1**
-- 🔥 Current Streak: **34 Days**
+- 🔴 Hard: **2**
+- 🔥 Current Streak: **35 Days**
 
 ---
 
@@ -120,4 +124,3 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 If you found this repository helpful or inspiring, consider giving it a ⭐.
 
 Happy Coding! 🚀
-```

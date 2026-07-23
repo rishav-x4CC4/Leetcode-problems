@@ -47,6 +47,7 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 | 35 | 20 Jul 2026 | LeetCode 23 - Merge K Sorted Lists |
 | 36 | 21 Jul 2026 | LeetCode 18 - 4Sum |
 | 37 | 22 Jul 2026 | LeetCode 16 - 3Sum Closest |
+| 38 | 23 Jul 2026 | LeetCode 217 - Contains Duplicate |
 
 ---
 
@@ -54,11 +55,11 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 
 | Difficulty | Solved |
 |------------|:------:|
-| 🟢 Easy | **31** |
+| 🟢 Easy | **32** |
 | 🟡 Medium | **10** |
 | 🔴 Hard | **3** |
 
-**Total Problems Solved:** **44**
+**Total Problems Solved:** **45**
 
 ---
 
@@ -114,12 +115,12 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 
 # 📈 Current Progress
 
-- 📅 Days Completed: **37 / 100**
-- ✅ Problems Solved: **44**
-- 🟢 Easy: **31**
+- 📅 Days Completed: **38 / 100**
+- ✅ Problems Solved: **45**
+- 🟢 Easy: **32**
 - 🟡 Medium: **10**
 - 🔴 Hard: **3**
-- 🔥 Current Streak: **37 Days**
+- 🔥 Current Streak: **38 Days**
 
 ---
 

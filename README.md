@@ -48,6 +48,7 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 | 36 | 21 Jul 2026 | LeetCode 18 - 4Sum |
 | 37 | 22 Jul 2026 | LeetCode 16 - 3Sum Closest |
 | 38 | 23 Jul 2026 | LeetCode 217 - Contains Duplicate |
+| 39 | 24 Jul 2026 | LeetCode 20 - Valid Parentheses |
 
 ---
 
@@ -55,11 +56,11 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 
 | Difficulty | Solved |
 |------------|:------:|
-| 🟢 Easy | **32** |
+| 🟢 Easy | **33** |
 | 🟡 Medium | **10** |
 | 🔴 Hard | **3** |
 
-**Total Problems Solved:** **45**
+**Total Problems Solved:** **46**
 
 ---
 
@@ -93,6 +94,8 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 - Merge Techniques
 - KMP Algorithm
 - Sieve of Eratosthenes
+- Stack
+- Parentheses Matching
 
 ---
 
@@ -115,12 +118,12 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 
 # 📈 Current Progress
 
-- 📅 Days Completed: **38 / 100**
-- ✅ Problems Solved: **45**
-- 🟢 Easy: **32**
+- 📅 Days Completed: **39 / 100**
+- ✅ Problems Solved: **46**
+- 🟢 Easy: **33**
 - 🟡 Medium: **10**
 - 🔴 Hard: **3**
-- 🔥 Current Streak: **38 Days**
+- 🔥 Current Streak: **39 Days**
 
 ---
 

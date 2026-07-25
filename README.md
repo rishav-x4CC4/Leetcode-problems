@@ -49,6 +49,7 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 | 37 | 22 Jul 2026 | LeetCode 16 - 3Sum Closest |
 | 38 | 23 Jul 2026 | LeetCode 217 - Contains Duplicate |
 | 39 | 24 Jul 2026 | LeetCode 20 - Valid Parentheses |
+| 40 | 25 Jul 2026 | LeetCode 35 - Search Insert Position |
 
 ---
 
@@ -56,11 +57,11 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 
 | Difficulty | Solved |
 |------------|:------:|
-| 🟢 Easy | **33** |
+| 🟢 Easy | **34** |
 | 🟡 Medium | **10** |
 | 🔴 Hard | **3** |
 
-**Total Problems Solved:** **46**
+**Total Problems Solved:** **47**
 
 ---
 
@@ -118,12 +119,12 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 
 # 📈 Current Progress
 
-- 📅 Days Completed: **39 / 100**
-- ✅ Problems Solved: **46**
-- 🟢 Easy: **33**
+- 📅 Days Completed: **40 / 100**
+- ✅ Problems Solved: **47**
+- 🟢 Easy: **34**
 - 🟡 Medium: **10**
 - 🔴 Hard: **3**
-- 🔥 Current Streak: **39 Days**
+- 🔥 Current Streak: **40 Days**
 
 ---
 

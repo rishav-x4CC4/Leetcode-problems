@@ -50,6 +50,7 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 | 38 | 23 Jul 2026 | LeetCode 217 - Contains Duplicate |
 | 39 | 24 Jul 2026 | LeetCode 20 - Valid Parentheses |
 | 40 | 25 Jul 2026 | LeetCode 35 - Search Insert Position |
+| 41 | 26 Jul 2026 | LeetCode 78 - Subsets |
 
 ---
 
@@ -58,10 +59,10 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 | Difficulty | Solved |
 |------------|:------:|
 | 🟢 Easy | **34** |
-| 🟡 Medium | **10** |
+| 🟡 Medium | **11** |
 | 🔴 Hard | **3** |
 
-**Total Problems Solved:** **47**
+**Total Problems Solved:** **48**
 
 ---
 
@@ -97,6 +98,7 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 - Sieve of Eratosthenes
 - Stack
 - Parentheses Matching
+- Power Set Generation
 
 ---
 
@@ -119,12 +121,12 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 
 # 📈 Current Progress
 
-- 📅 Days Completed: **40 / 100**
-- ✅ Problems Solved: **47**
+- 📅 Days Completed: **41 / 100**
+- ✅ Problems Solved: **48**
 - 🟢 Easy: **34**
-- 🟡 Medium: **10**
+- 🟡 Medium: **11**
 - 🔴 Hard: **3**
-- 🔥 Current Streak: **40 Days**
+- 🔥 Current Streak: **41 Days**
 
 ---
 

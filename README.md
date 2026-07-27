@@ -51,6 +51,7 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 | 39 | 24 Jul 2026 | LeetCode 20 - Valid Parentheses |
 | 40 | 25 Jul 2026 | LeetCode 35 - Search Insert Position |
 | 41 | 26 Jul 2026 | LeetCode 78 - Subsets |
+| 42 | 27 Jul 2026 | LeetCode 69 - Sqrt(x) |
 
 ---
 
@@ -58,11 +59,11 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 
 | Difficulty | Solved |
 |------------|:------:|
-| 🟢 Easy | **34** |
+| 🟢 Easy | **35** |
 | 🟡 Medium | **11** |
 | 🔴 Hard | **3** |
 
-**Total Problems Solved:** **48**
+**Total Problems Solved:** **49**
 
 ---
 
@@ -121,12 +122,12 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 
 # 📈 Current Progress
 
-- 📅 Days Completed: **41 / 100**
-- ✅ Problems Solved: **48**
-- 🟢 Easy: **34**
+- 📅 Days Completed: **42 / 100**
+- ✅ Problems Solved: **49**
+- 🟢 Easy: **35**
 - 🟡 Medium: **11**
 - 🔴 Hard: **3**
-- 🔥 Current Streak: **41 Days**
+- 🔥 Current Streak: **42 Days**
 
 ---
 
@@ -135,3 +136,4 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 If you found this repository helpful or inspiring, consider giving it a ⭐.
 
 Happy Coding! 🚀
+```

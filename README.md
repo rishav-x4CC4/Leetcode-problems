@@ -52,6 +52,7 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 | 40 | 25 Jul 2026 | LeetCode 35 - Search Insert Position |
 | 41 | 26 Jul 2026 | LeetCode 78 - Subsets |
 | 42 | 27 Jul 2026 | LeetCode 69 - Sqrt(x) |
+| 43 | 28 Jul 2026 | LeetCode 367 - Valid Perfect Square |
 
 ---
 
@@ -59,11 +60,11 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 
 | Difficulty | Solved |
 |------------|:------:|
-| 🟢 Easy | **35** |
+| 🟢 Easy | **36** |
 | 🟡 Medium | **11** |
 | 🔴 Hard | **3** |
 
-**Total Problems Solved:** **49**
+**Total Problems Solved:** **50**
 
 ---
 
@@ -122,12 +123,12 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 
 # 📈 Current Progress
 
-- 📅 Days Completed: **42 / 100**
-- ✅ Problems Solved: **49**
-- 🟢 Easy: **35**
+- 📅 Days Completed: **43 / 100**
+- ✅ Problems Solved: **50**
+- 🟢 Easy: **36**
 - 🟡 Medium: **11**
 - 🔴 Hard: **3**
-- 🔥 Current Streak: **42 Days**
+- 🔥 Current Streak: **43 Days**
 
 ---
 

@@ -53,6 +53,7 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 | 41 | 26 Jul 2026 | LeetCode 78 - Subsets |
 | 42 | 27 Jul 2026 | LeetCode 69 - Sqrt(x) |
 | 43 | 28 Jul 2026 | LeetCode 367 - Valid Perfect Square |
+| 44 | 29 Jul 2026 | LeetCode 118 - Pascal's Triangle |
 
 ---
 
@@ -60,11 +61,11 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 
 | Difficulty | Solved |
 |------------|:------:|
-| 🟢 Easy | **36** |
+| 🟢 Easy | **37** |
 | 🟡 Medium | **11** |
 | 🔴 Hard | **3** |
 
-**Total Problems Solved:** **50**
+**Total Problems Solved:** **51**
 
 ---
 
@@ -101,6 +102,7 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 - Stack
 - Parentheses Matching
 - Power Set Generation
+- Pascal's Triangle
 
 ---
 
@@ -123,12 +125,12 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 
 # 📈 Current Progress
 
-- 📅 Days Completed: **43 / 100**
-- ✅ Problems Solved: **50**
-- 🟢 Easy: **36**
+- 📅 Days Completed: **44 / 100**
+- ✅ Problems Solved: **51**
+- 🟢 Easy: **37**
 - 🟡 Medium: **11**
 - 🔴 Hard: **3**
-- 🔥 Current Streak: **43 Days**
+- 🔥 Current Streak: **44 Days**
 
 ---
 

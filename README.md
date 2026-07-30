@@ -54,6 +54,7 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 | 42 | 27 Jul 2026 | LeetCode 69 - Sqrt(x) |
 | 43 | 28 Jul 2026 | LeetCode 367 - Valid Perfect Square |
 | 44 | 29 Jul 2026 | LeetCode 118 - Pascal's Triangle |
+| 45 | 30 Jul 2026 | LeetCode 3014 - Minimum Number of Pushes to Type Word I |
 
 ---
 
@@ -61,11 +62,11 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 
 | Difficulty | Solved |
 |------------|:------:|
-| 🟢 Easy | **37** |
+| 🟢 Easy | **38** |
 | 🟡 Medium | **11** |
 | 🔴 Hard | **3** |
 
-**Total Problems Solved:** **51**
+**Total Problems Solved:** **52**
 
 ---
 
@@ -103,6 +104,7 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 - Parentheses Matching
 - Power Set Generation
 - Pascal's Triangle
+- Greedy Optimization
 
 ---
 
@@ -125,12 +127,12 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 
 # 📈 Current Progress
 
-- 📅 Days Completed: **44 / 100**
-- ✅ Problems Solved: **51**
-- 🟢 Easy: **37**
+- 📅 Days Completed: **45 / 100**
+- ✅ Problems Solved: **52**
+- 🟢 Easy: **38**
 - 🟡 Medium: **11**
 - 🔴 Hard: **3**
-- 🔥 Current Streak: **44 Days**
+- 🔥 Current Streak: **45 Days**
 
 ---
 
@@ -139,4 +141,3 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 If you found this repository helpful or inspiring, consider giving it a ⭐.
 
 Happy Coding! 🚀
-```

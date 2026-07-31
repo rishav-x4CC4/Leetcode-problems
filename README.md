@@ -55,6 +55,7 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 | 43 | 28 Jul 2026 | LeetCode 367 - Valid Perfect Square |
 | 44 | 29 Jul 2026 | LeetCode 118 - Pascal's Triangle |
 | 45 | 30 Jul 2026 | LeetCode 3014 - Minimum Number of Pushes to Type Word I |
+| 46 | 31 Jul 2026 | LeetCode 17 - Letter Combinations of a Phone Number |
 
 ---
 
@@ -63,10 +64,10 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 | Difficulty | Solved |
 |------------|:------:|
 | 🟢 Easy | **38** |
-| 🟡 Medium | **11** |
+| 🟡 Medium | **12** |
 | 🔴 Hard | **3** |
 
-**Total Problems Solved:** **52**
+**Total Problems Solved:** **53**
 
 ---
 
@@ -105,6 +106,8 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 - Power Set Generation
 - Pascal's Triangle
 - Greedy Optimization
+- Telephone Keypad Mapping
+- Combinatorial Generation
 
 ---
 
@@ -127,12 +130,12 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 
 # 📈 Current Progress
 
-- 📅 Days Completed: **45 / 100**
-- ✅ Problems Solved: **52**
+- 📅 Days Completed: **46 / 100**
+- ✅ Problems Solved: **53**
 - 🟢 Easy: **38**
-- 🟡 Medium: **11**
+- 🟡 Medium: **12**
 - 🔴 Hard: **3**
-- 🔥 Current Streak: **45 Days**
+- 🔥 Current Streak: **46 Days**
 
 ---
 

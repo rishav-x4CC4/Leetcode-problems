@@ -56,6 +56,12 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 | 44 | 29 Jul 2026 | LeetCode 118 - Pascal's Triangle |
 | 45 | 30 Jul 2026 | LeetCode 3014 - Minimum Number of Pushes to Type Word I |
 | 46 | 31 Jul 2026 | LeetCode 17 - Letter Combinations of a Phone Number |
+| 47 | 04 Aug 2026 | LeetCode 6 - Zigzag Conversion |
+| 48 | 04 Aug 2026 | LeetCode 2 - Add Two Numbers |
+| 49 | 04 Aug 2026 | LeetCode 3 - Longest Substring Without Repeating Characters |
+| 50 | 06 Aug 2026 | LeetCode 3731 - Find Missing Elements |
+| 51 | 06 Aug 2026 | LeetCode 3310 - Remove Methods From Project |
+| 52 | 06 Aug 2026 | LeetCode 3345 - Smallest Divisible Digit Product I |
 
 ---
 
@@ -63,11 +69,11 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 
 | Difficulty | Solved |
 |------------|:------:|
-| 🟢 Easy | **38** |
-| 🟡 Medium | **12** |
+| 🟢 Easy | **40** |
+| 🟡 Medium | **13** |
 | 🔴 Hard | **3** |
 
-**Total Problems Solved:** **53**
+**Total Problems Solved:** **56**
 
 ---
 
@@ -78,6 +84,7 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 - Hashing
 - Sorting
 - Two Pointers
+- Sliding Window
 - Binary Search
 - Prefix Sum & Suffix Product
 - Matrix
@@ -95,6 +102,10 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 - Fast & Slow Pointer
 - Backtracking
 - Depth First Search (DFS)
+- Graph
+- Graph Traversal
+- Reachability
+- Adjacency List
 - Branch & Bound
 - Heap (Priority Queue)
 - Divide & Conquer
@@ -108,6 +119,8 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 - Greedy Optimization
 - Telephone Keypad Mapping
 - Combinatorial Generation
+- Digit Manipulation
+- Brute Force
 
 ---
 
@@ -130,12 +143,12 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 
 # 📈 Current Progress
 
-- 📅 Days Completed: **46 / 100**
-- ✅ Problems Solved: **53**
-- 🟢 Easy: **38**
-- 🟡 Medium: **12**
+- 📅 Days Completed: **52 / 100**
+- ✅ Problems Solved: **56**
+- 🟢 Easy: **40**
+- 🟡 Medium: **13**
 - 🔴 Hard: **3**
-- 🔥 Current Streak: **46 Days**
+- 🔥 Current Streak: **52 Days**
 
 ---
 

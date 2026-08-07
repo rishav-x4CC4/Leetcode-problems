@@ -8,72 +8,73 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 
 # 📅 Progress
 
-| Day | Date | Problems Solved |
-|:---:|:-----|:----------------|
-| 1 | 16 Jun 2026 | LeetCode 3945 - Digit Frequency Score |
-| 2 | 17 Jun 2026 | LeetCode 1929 - Concatenation of Array |
-| 3 | 18 Jun 2026 | LeetCode 3110 - Score of a String |
-| 4 | 19 Jun 2026 | LeetCode 1108 - Defanging an IP Address |
-| 5 | 20 Jun 2026 | LeetCode 53 - Maximum Subarray |
-| 6 | 21 Jun 2026 | LeetCode 88 - Merge Sorted Array |
-| 7 | 22 Jun 2026 | LeetCode 3541 - Find Most Frequent Vowel and Consonant |
-| 8 | 23 Jun 2026 | LeetCode 2894 - Divisible and Non-divisible Sums Difference |
-| 9 | 24 Jun 2026 | LeetCode 13 - Roman to Integer |
-| 10 | 25 Jun 2026 | LeetCode 9 - Palindrome Number |
-| 11 | 26 Jun 2026 | LeetCode 27 - Remove Element |
-| 12 | 27 Jun 2026 | LeetCode 21 - Merge Two Sorted Lists |
-| 13 | 28 Jun 2026 | LeetCode 1 - Two Sum |
-| 14 | 29 Jun 2026 | LeetCode 121 - Best Time to Buy and Sell Stock |
-| 15 | 30 Jun 2026 | LeetCode 58 - Length of Last Word |
-| 16 | 01 Jul 2026 | LeetCode 14 - Longest Common Prefix |
-| 17 | 02 Jul 2026 | LeetCode 4 - Median of Two Sorted Arrays |
-| 18 | 03 Jul 2026 | LeetCode 12 - Integer to Roman |
-| 19 | 05 Jul 2026 | LeetCode 509 - Fibonacci Number, LeetCode 231 - Power of Two |
-| 20 | 05 Jul 2026 | LeetCode 283 - Move Zeroes, LeetCode 344 - Reverse String |
-| 21 | 06 Jul 2026 | LeetCode 136 - Single Number, LeetCode 350 - Intersection of Two Arrays II |
-| 22 | 07 Jul 2026 | LeetCode 26 - Remove Duplicates from Sorted Array |
-| 23 | 08 Jul 2026 | LeetCode 867 - Transpose Matrix |
-| 24 | 09 Jul 2026 | LeetCode 54 - Spiral Matrix |
-| 25 | 10 Jul 2026 | LeetCode 1486 - XOR Operation in an Array |
-| 26 | 11 Jul 2026 | LeetCode 905 - Sort Array By Parity |
-| 27 | 12 Jul 2026 | LeetCode 1331 - Rank Transform of an Array |
-| 28 | 13 Jul 2026 | LeetCode 66 - Plus One |
-| 29 | 14 Jul 2026 | LeetCode 28 - Find the Index of the First Occurrence in a String, LeetCode 152 - Maximum Product Subarray |
-| 30 | 15 Jul 2026 | LeetCode 3658 - GCD of Odd and Even Sums, LeetCode 7 - Reverse Integer |
-| 31 | 16 Jul 2026 | LeetCode 238 - Product of Array Except Self, LeetCode 204 - Count Primes |
-| 32 | 17 Jul 2026 | LeetCode 15 - 3Sum |
-| 33 | 18 Jul 2026 | LeetCode 206 - Reverse Linked List, LeetCode 876 - Middle of the Linked List |
-| 34 | 19 Jul 2026 | LeetCode 51 - N-Queens |
-| 35 | 20 Jul 2026 | LeetCode 23 - Merge K Sorted Lists |
-| 36 | 21 Jul 2026 | LeetCode 18 - 4Sum |
-| 37 | 22 Jul 2026 | LeetCode 16 - 3Sum Closest |
-| 38 | 23 Jul 2026 | LeetCode 217 - Contains Duplicate |
-| 39 | 24 Jul 2026 | LeetCode 20 - Valid Parentheses |
-| 40 | 25 Jul 2026 | LeetCode 35 - Search Insert Position |
-| 41 | 26 Jul 2026 | LeetCode 78 - Subsets |
-| 42 | 27 Jul 2026 | LeetCode 69 - Sqrt(x) |
-| 43 | 28 Jul 2026 | LeetCode 367 - Valid Perfect Square |
-| 44 | 29 Jul 2026 | LeetCode 118 - Pascal's Triangle |
-| 45 | 30 Jul 2026 | LeetCode 3014 - Minimum Number of Pushes to Type Word I |
-| 46 | 31 Jul 2026 | LeetCode 17 - Letter Combinations of a Phone Number |
-| 47 | 04 Aug 2026 | LeetCode 6 - Zigzag Conversion |
-| 48 | 04 Aug 2026 | LeetCode 2 - Add Two Numbers |
-| 49 | 04 Aug 2026 | LeetCode 3 - Longest Substring Without Repeating Characters |
-| 50 | 06 Aug 2026 | LeetCode 3731 - Find Missing Elements |
-| 51 | 06 Aug 2026 | LeetCode 3310 - Remove Methods From Project |
-| 52 | 06 Aug 2026 | LeetCode 3345 - Smallest Divisible Digit Product I |
+| Day | Date        | Problems Solved                                                                                           |
+| :-: | :---------- | :-------------------------------------------------------------------------------------------------------- |
+|  1  | 16 Jun 2026 | LeetCode 3945 - Digit Frequency Score                                                                     |
+|  2  | 17 Jun 2026 | LeetCode 1929 - Concatenation of Array                                                                    |
+|  3  | 18 Jun 2026 | LeetCode 3110 - Score of a String                                                                         |
+|  4  | 19 Jun 2026 | LeetCode 1108 - Defanging an IP Address                                                                   |
+|  5  | 20 Jun 2026 | LeetCode 53 - Maximum Subarray                                                                            |
+|  6  | 21 Jun 2026 | LeetCode 88 - Merge Sorted Array                                                                          |
+|  7  | 22 Jun 2026 | LeetCode 3541 - Find Most Frequent Vowel and Consonant                                                    |
+|  8  | 23 Jun 2026 | LeetCode 2894 - Divisible and Non-divisible Sums Difference                                               |
+|  9  | 24 Jun 2026 | LeetCode 13 - Roman to Integer                                                                            |
+|  10 | 25 Jun 2026 | LeetCode 9 - Palindrome Number                                                                            |
+|  11 | 26 Jun 2026 | LeetCode 27 - Remove Element                                                                              |
+|  12 | 27 Jun 2026 | LeetCode 21 - Merge Two Sorted Lists                                                                      |
+|  13 | 28 Jun 2026 | LeetCode 1 - Two Sum                                                                                      |
+|  14 | 29 Jun 2026 | LeetCode 121 - Best Time to Buy and Sell Stock                                                            |
+|  15 | 30 Jun 2026 | LeetCode 58 - Length of Last Word                                                                         |
+|  16 | 01 Jul 2026 | LeetCode 14 - Longest Common Prefix                                                                       |
+|  17 | 02 Jul 2026 | LeetCode 4 - Median of Two Sorted Arrays                                                                  |
+|  18 | 03 Jul 2026 | LeetCode 12 - Integer to Roman                                                                            |
+|  19 | 05 Jul 2026 | LeetCode 509 - Fibonacci Number, LeetCode 231 - Power of Two                                              |
+|  20 | 05 Jul 2026 | LeetCode 283 - Move Zeroes, LeetCode 344 - Reverse String                                                 |
+|  21 | 06 Jul 2026 | LeetCode 136 - Single Number, LeetCode 350 - Intersection of Two Arrays II                                |
+|  22 | 07 Jul 2026 | LeetCode 26 - Remove Duplicates from Sorted Array                                                         |
+|  23 | 08 Jul 2026 | LeetCode 867 - Transpose Matrix                                                                           |
+|  24 | 09 Jul 2026 | LeetCode 54 - Spiral Matrix                                                                               |
+|  25 | 10 Jul 2026 | LeetCode 1486 - XOR Operation in an Array                                                                 |
+|  26 | 11 Jul 2026 | LeetCode 905 - Sort Array By Parity                                                                       |
+|  27 | 12 Jul 2026 | LeetCode 1331 - Rank Transform of an Array                                                                |
+|  28 | 13 Jul 2026 | LeetCode 66 - Plus One                                                                                    |
+|  29 | 14 Jul 2026 | LeetCode 28 - Find the Index of the First Occurrence in a String, LeetCode 152 - Maximum Product Subarray |
+|  30 | 15 Jul 2026 | LeetCode 3658 - GCD of Odd and Even Sums, LeetCode 7 - Reverse Integer                                    |
+|  31 | 16 Jul 2026 | LeetCode 238 - Product of Array Except Self, LeetCode 204 - Count Primes                                  |
+|  32 | 17 Jul 2026 | LeetCode 15 - 3Sum                                                                                        |
+|  33 | 18 Jul 2026 | LeetCode 206 - Reverse Linked List, LeetCode 876 - Middle of the Linked List                              |
+|  34 | 19 Jul 2026 | LeetCode 51 - N-Queens                                                                                    |
+|  35 | 20 Jul 2026 | LeetCode 23 - Merge K Sorted Lists                                                                        |
+|  36 | 21 Jul 2026 | LeetCode 18 - 4Sum                                                                                        |
+|  37 | 22 Jul 2026 | LeetCode 16 - 3Sum Closest                                                                                |
+|  38 | 23 Jul 2026 | LeetCode 217 - Contains Duplicate                                                                         |
+|  39 | 24 Jul 2026 | LeetCode 20 - Valid Parentheses                                                                           |
+|  40 | 25 Jul 2026 | LeetCode 35 - Search Insert Position                                                                      |
+|  41 | 26 Jul 2026 | LeetCode 78 - Subsets                                                                                     |
+|  42 | 27 Jul 2026 | LeetCode 69 - Sqrt(x)                                                                                     |
+|  43 | 28 Jul 2026 | LeetCode 367 - Valid Perfect Square                                                                       |
+|  44 | 29 Jul 2026 | LeetCode 118 - Pascal's Triangle                                                                          |
+|  45 | 30 Jul 2026 | LeetCode 3014 - Minimum Number of Pushes to Type Word I                                                   |
+|  46 | 31 Jul 2026 | LeetCode 17 - Letter Combinations of a Phone Number                                                       |
+|  47 | 04 Aug 2026 | LeetCode 6 - Zigzag Conversion                                                                            |
+|  48 | 04 Aug 2026 | LeetCode 2 - Add Two Numbers                                                                              |
+|  49 | 04 Aug 2026 | LeetCode 3 - Longest Substring Without Repeating Characters                                               |
+|  50 | 06 Aug 2026 | LeetCode 3731 - Find Missing Elements                                                                     |
+|  51 | 06 Aug 2026 | LeetCode 3310 - Remove Methods From Project                                                               |
+|  52 | 06 Aug 2026 | LeetCode 3345 - Smallest Divisible Digit Product I                                                        |
+|  53 | 07 Aug 2026 | LeetCode 70 - Climbing Stairs                                                                             |
 
 ---
 
 # 📊 Statistics
 
 | Difficulty | Solved |
-|------------|:------:|
-| 🟢 Easy | **40** |
-| 🟡 Medium | **13** |
-| 🔴 Hard | **3** |
+| ---------- | :----: |
+| 🟢 Easy    | **41** |
+| 🟡 Medium  | **13** |
+| 🔴 Hard    |  **3** |
 
-**Total Problems Solved:** **56**
+**Total Problems Solved:** **57**
 
 ---
 
@@ -121,6 +122,8 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 - Combinatorial Generation
 - Digit Manipulation
 - Brute Force
+- Fibonacci Pattern
+- Space Optimization
 
 ---
 
@@ -143,12 +146,12 @@ I'm solving Data Structures and Algorithms problems every day to improve my prob
 
 # 📈 Current Progress
 
-- 📅 Days Completed: **52 / 100**
-- ✅ Problems Solved: **56**
-- 🟢 Easy: **40**
+- 📅 Days Completed: **53 / 100**
+- ✅ Problems Solved: **57**
+- 🟢 Easy: **41**
 - 🟡 Medium: **13**
 - 🔴 Hard: **3**
-- 🔥 Current Streak: **52 Days**
+- 🔥 Current Streak: **53 Days**
 
 ---
 
